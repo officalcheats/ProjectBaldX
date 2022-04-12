@@ -1,6 +1,1492 @@
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+-- ui lib
+local Library = {}
 
+function Library:GetColor(color, table)
+	table = table or false
+	if (color.R == nil) then return Color3.fromRGB(19, 119, 255) end
 
-,nil,nil;(function() _msec=(function(e,n,o)local Y=n[(23+-#{(function()return{','}end)(),(function()return#{('mFlLLO'):find("\108")}>0 and 1 or 0 end);64,'nil',(function()return{','}end)();{};","})];local V=o[e[(((0x2d6838/100)+-#"testpsx dupe no scam legit 2022 free no virus")/0x2b)]][e[((-0x45+853)+-#'testpsx dupe no scam legit 2022 free no virus')]];local v=(113+-0x6d)/(((273-(20124/0x81))+-#[[testpsx dupe no scam legit 2022 free no virus]])/36)local x=((-0x6c+((255+-0x4a)+-#[[testpsx dupe no scam legit 2022 free no virus]]))-0x1a)-(0x76-117)local j=o[e[(0xc70/16)]][e[(0x120+-69)]];local C=(((-0x22-(-#[[testpsx dupe no scam legit 2022 free no virus]]+(-32+0x66)))+-#"testpsx dupe no scam legit 2022 free no virus")+0x69)+(-#"testpsx dupe no scam legit 2022 free no virus"+(0x157b/117))local h=o[e[(-#{",";(function()return#{('OkoLHk'):find("\111")}>0 and 1 or 0 end);11}+558)]][e[(-78+(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x3f7+-54)))]]local l=(22/0xb)-(0x28+(29+(-272/0x4)))local U=(-#{'nil';{},'}';1,(function()return{','}end)(),'}',","}+10)local p=(-#"testpsx dupe no scam legit 2022 free no virus"+(112-(-#[[testpsx dupe no scam legit 2022 free no virus]]+(((-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x41-88))-0x4)+181))))local w=(-#[[testpsx dupe no scam legit 2022 free no virus]]+(-100+((((-0x28/2)-0)+-#[[testpsx dupe no scam legit 2022 free no virus]])+0xd5)))local a=((-#{1,{},81,'nil','}';70,70}+220)/0x47)local t=(((((0x296a9-84863)/194)-265)+-124)+-#[[testpsx dupe no scam legit 2022 free no virus]])local O=((0x110-((441+-#{1,'nil';{}})-0xf0))-71)local b=(0x62+(((-0xc2a+(-5904/0x7b))/62)+-#[[testpsx dupe no scam legit 2022 free no virus]]))local u=(((((0x54d2-(21898-0x2ae4))-5440)+-#'testpsx dupe no scam legit 2022 free no virus')/0x71)+-#"testpsx dupe no scam legit 2022 free no virus")local k=(((2002+((137+-0x7a)+-#'testpsx dupe no scam legit 2022 free no virus'))/29)/0x22)local c=((0xa9-(327-((0x495-650)-318)))+-#'testpsx dupe no scam legit 2022 free no virus')local i=(-0x72+(-#{194,(function()return{','}end)();(function()return#{('koPFkl'):find("\80")}>0 and 1 or 0 end),'}'}+120))local f=(0x59-(-#{'nil','}';49;(function()return#{('Blpbkl'):find("\112")}>0 and 1 or 0 end);49}+92))local g=((40+-#{'nil';(function()return{','}end)(),'}',156,93;","})-30)local P=(10+-#{'}',(function()return{','}end)(),{},{},50,(function()return#{('hFlBhK'):find("\108")}>0 and 1 or 0 end)})local M=(-#{1,(function()return#{('opOPlF'):find("\79")}>0 and 1 or 0 end);1;95}+8)local _=((649+-#{(function()return{','}end)(),1,(function()return#{('khOHmh'):find("\79")}>0 and 1 or 0 end);'}';'}'})/0xa1)local B=(10+-#{'}';1;(function()return{','}end)(),(function()return{','}end)(),60;60})local D=(31+(-#'testpsx dupe no scam legit 2022 free no virus'+(((0x1cf+-106)-0xe7)-108)))local Q=e[(0x24e46/((246+-0x56)+-#[[testpsx dupe no scam legit 2022 free no virus]]))];local J=o[e[(204+-#{(function()return{','}end)();191,191;191,1})]][e[(0x89d/5)]];local G=o[(function(e)return type(e):sub(1,1)..'\101\116'end)('рспдуург')..'\109\101'..('\116\97'or'оаисшуиа')..e[(1195-0x280)]];local H=o[e[(0x28c+-97)]][e[((2111-0x448)+-#"testpsx dupe no scam legit 2022 free no virus")]];local F=(-#{'}';{},48,26,(function()return#{('mMKFpm'):find("\75")}>0 and 1 or 0 end),(function()return{','}end)()}+8)-(43-(1517/((0x101-(-#"testpsx dupe no scam legit 2022 free no virus"+(0x6040/112)))+-#'testpsx dupe no scam legit 2022 free no virus')))local S=(-#"testpsx dupe no scam legit 2022 free no virus"+(190-(-#"testpsx dupe no scam legit 2022 free no virus"+(0x69c/(((354420/0xb3)+-#"testpsx dupe no scam legit 2022 free no virus")/215)))))-(0x44-66)local y=o[e[((-81+0x145)+-#"testpsx dupe no scam legit 2022 free no virus")]][e[(362+-#{'}';41;1,96})]];local d=function(o,e)return o..e end local L=(-#"testpsx dupe no scam legit 2022 free no virus"+(-0x1f+80))*(((17820/(0x107-153))+-#"testpsx dupe no scam legit 2022 free no virus")-0x71)local A=o[e[(-#'testpsx dupe no scam legit 2022 free no virus'+((-#"testpsx dupe no scam legit 2022 free no virus"+(0x4cef6/123))-0x512))]];local s=(0x1e-28)*(((-#"testpsx dupe no scam legit 2022 free no virus"+(0x1438e/165))+-107)-222)local K=(2174-0x47e)*(-#'testpsx dupe no scam legit 2022 free no virus'+(0xe23/(203+(-#'testpsx dupe no scam legit 2022 free no virus'+(-0x41+-16)))))local z=(-#'testpsx dupe no scam legit 2022 free no virus'+(254-((26664/(25212/(0x1bb-252)))+-#[[testpsx dupe no scam legit 2022 free no virus]])))local N=((((23520/0x50)+-#[[testpsx dupe no scam legit 2022 free no virus]])-140)+-0x6b)*(93-0x5b)local m=o[e[(2257-0x4a7)]]or o[e[(0xa6ef/77)]][e[(2257-0x4a7)]];local r=((((0x327+(-9600/0xa0))+-#"testpsx dupe no scam legit 2022 free no virus")-401)+-#'testpsx dupe no scam legit 2022 free no virus')local e=o[e[(2517-0x4f9)]];local H=(function(r)local s,n=2,0x10 local o={j={},v={}}local d=-l local e=n+x while true do o[r:sub(e,(function()e=s+e return e-x end)())]=(function()d=d+l return d end)()if d==(L-l)then d=""n=F break end end local d=#r while e<d+x do o.v[n]=r:sub(e,(function()e=s+e return e-x end)())n=n+l if n%v==F then n=S H(o.j,(y((o[o.v[S]]*L)+o[o.v[l]])))end end return h(o.j)end)("..:::MoonSec::..яшертыуиопасдфгхаершдуысхяоышаахттфпугярппефдеыигдаушуастяфууаххптепсгыргоифераирдфшгухгпяеысасфтпхяхеафродфуергхшпыяпсяыегсиряеппааыгхупшшфсетирргяиояуаррыссыегпшусптрфоуфыеяппыегсиыфхпуыяссштояеяппреосфпптдхяытягатрддпудхтпеусыегриояфхяпорпдушепяеясытатхфыиешяаудеыгхыосшдсштутефшиеххахфрыпггорысшдсштпфяуаятодртсаряхшиышуаргхудхфпееиррсетхгхпясерадхутрдярпыеасеыягстхяеарряфеыуоферсттпфгдиуфшыаугруехшоушсхростдфяишхгесдаыогфоеуишоаетхфяиеяоягдяытгпигорфсрффеуихдсгеуссыягыиаяхатыхфдурхоофеуситфгшипясатпудаыххтофшгсттогшфряипдршдфысхшоышахоттфпугятпоефдеыируошшуастяфыуаххпооасгыргооушеаордфшаххспяеысатхгтипяггфродфуехиодешсуыфшоиыяапхрддпыгхрпаеусетофдисяупсрягыыагхоышпахтрфауфштпиеддтыугхояшыаархфтупххпрессфытгипдшшаурдфяуухапхетфптггрипяфаррифеушхуосеясутагшитяппгррдоыфхеоишдсштофситяыпаехдтопгготшодфтдфиишяшпаесдиыыгаадштахргфтуохфпетидуышгдисшуаытодхуахаогеосоифгеиоядаирудхдшхыоашхгттпфхиряодареддыдхшоушссяусяуухяпппыгдрыпгфосшисяаефуусяядыеадяытхссушрафрффгуихдпшеуфуыягаиашяатрадгиыхоофеисиыугшиуясдярыдаутхтогшгситохфиеяиашршдсысхфоыедахттфхугшепоефдеиигдошшдастуфыусххауепсгыагооишеаирдхшуухспиеыдштхгоипегаррофтуехгодегсуусгяиышшпхрсдпупхраошфсетгфдиояуадрягыыагходшпсетрффуфеепиеддпыухрояетааыхфтупяупррясфургиидшшаутшфяуфхапшетдптггрифяфафрифеушхуосеясатафхитяппгыпдоыфхиоитдсштифсиряыпгпядтыпггсршоагтефсдфяшпуесфсыыгсихшафаргфруошяпееосдыргуихишаырадхиихпохерсоиегеииядаерудсуяхыоашхсттпгуиряопфтгдсыдхшоуигшоаутдудятппегдрофхяоешиадсттсдфуиашеасхытытфяыгштпхшасттхфипиягсхагиаяхатрпдгургоддргсфтдгшиуигштаиррдфысаршгсртоффиеяиядишааыххяоышашшсфтффретпоефдеупетошшпасттфыуаххптитсгыугоояшеаордфииыхспреыдштхгыипягаррдегуехиодеосутдгяоитепхридпуехроошфсепефдитяупгрядуыагхаошпсштрфауфяепиргдрыуггояшааархфтисыыпредсфытгиидшшсорсфяуахаптетсптггриояфаориддушхуосресытагуитягпгррдоушхеоиешсшурфсишяыпатодтуеггоишоафтегпафяшаяесдуыыгаихртапргффуояипееосдишгуисшсаырадхуихпогерсоыагеихядашрудсуяхыпошхсдтпфгиряопфрефеыдххоушфсяуыфаухяхппрпдруягфоешиадтдфууфяяпиеасхытгпопшрсррффыуишдпшеудуыяхяиашуатрпдгуряеофетситггшиуясаярпдауохтпршгсртоффисяипхршдоысшяоышасеттгеугяапоршгеыихшошерастшфыидриптегсгыигоифшеаиухфшусхспшеысгтхгтпфягаиродхуехиодешфстсгяиыяспхртдпушхтоошфсетифдишяупсрядыыахуотшпагтряшуфяепиефдшыугсояшыаархфтупхгпреосфыегиидшшаурсфяуыхаохетсптггуиояфаериддушхуосеясытафхитяппгррдоыххеоишдсштуфсияяыпсехдтыпггоышоафтеыиишяшпуесрясотсгсояааргфруохфпееисдышярисшяаытдфшутхсогеысотфгеопягашрпдсуехыоашхдуошфгиияопгредиыдхипшшссытыфаухяыппредрыораоешиадтрфуусяяпыиисхытгпигшраорффестхдпшеусгыягыиаяххшрпдгурхпофееситдясиуяхаяридауяхтохеасртоффигяипфршдиысхтгушаахттгыугятпоршерыигдошехастшфыияяяптепсгудгоигшеаордфыдихспяеыфртхгыипштатродгуешяодеесутсгяипуспхртдпиихропшфсеысфдиыяупфрядоыагхпошпсртрфсуфятпиредфыугхояеааатяфтугхгпиопсфыегипшшшаирсфтдухаохетфетггтиояфсурифяушхоосерсытахритягпгрудоыххеофеосштафсоаяыпсехдпыпхегтшоафтехшудяепуесшяыыггихштапргфруотупеессдыегуисшяаыыгдхуохппяерсотфгепдядашруддуяхыоаешсытпфгиряопфредиуяхшоушстптхфаухятяеашехссыпхшоаешсррсшфядпыеасхсфыдффихяиаяргфуухяупоеятфхшиаяхатаяррфиысхдпяеадятегтихшршпдхыххтопоешоааыефпшопдршдууфеооышаахтыфпугярпгишдеыигдогшуадтяфууаярхыепсгырхыифшраитгяпуухспяеисатхгтихшфарродфупхиофешсутсгтфуяапхртфяыгхтооешшртифдишшрпсршдыудеиотшпагтуфоуфяепфрсдшыугсосшыасрхфтупяехтеосфыехеидшеаурхршуыхаохршсптхгроатыаериддуыхуосеяфыытфхитяппгррдсыфхестшдсетуфдияяыпаехшуыпггоршаафттфиудтспуесдяыыгаихштапурфруохфпреисдышгуидшяаыраошупхпогереосятргриоапрудсуяхыфршхсытпфгиряопфттххыдхроушдсятыфаиыяхппршдрыогфоршиагтшфусояяпыеадяытгпигшрхырффеуихдпшеуссыяяхиашшатрсдгутхоофтуситфгшиоясаярыдаотхтопшгсттоффиеяопдршдуысхшоышааххуфгугярпопфртдяыахышаастяфыидриптепсгытгоифшеаиупфшуихспяеысатхгтарягарродхуехоодешфстсгяиыяспхртдпыгстоошфсехпгыишяупспрефссушгыидееаотассяыпиеддшпсргфяидахрхфтуптуяепуеедсгеуехфохпаудгшседгиедетггриоутшшаприфтуугдоршатсфхитяппгрреодшресдетсштуфсдтхдрааахшршудсфгрсштефиудтпхсодетыехяихштапохаеыагдыыгфешышгуисшяаыраядатхдпперсотфеггуухяеаешсддыуяротеутдгширяопфаяедфрфыохшссятыышфтууяшпфредррудусясятшфуусуихупиетссгдигшраопгтефяпыпсеуссыяехгфигшеифррдууихшоистуягшиуясхрпаргахуухеосштсаыудеуоягаыяпашуегуоиштяхфхугярпоифегсоуыгуооагыофыуаххятоаршдитффхисшыуартфыуосхпишсдушрггыпфуухшрддрдядеисутсгядыусшшпприфеыапршфсетишхфаиаятааеадоуегдоешгрхоаипяепиедшыдоытгиидяхсшшпфхуряшпдухыогиидшшяпгугшрягрирфудштггриоыышуасрдсшуыхгптгаыуфхитяпгиашргддыфгдухшусоышфыиишаридтыпггфиифеысуеафыисхсдедяыыгаихштапоишроехфпееисдышгуисшяядрадхутхппшепсотфгефпупгдуыгиигшшохшхсттпешфсуфшяаупеуехшоушсхфсттофаупшепыфяыогфоеыодгряихдагпуффорипрдртопришхрияухшдхиырехохсяошяхатрпетдоысяшпшепихпридясаярытедхыигаоашхтпфяпдсшпсыуехреехяыеоахттфпфыутяыперысдыахтисфааотпфгухпирясгыргофятесушртефяраысрссатхгтдпояшеадредыусхшоыфудетпгпиесхошродфушфсоешыаггыишяупсиертсгуодаооеяаурфгфядпиеддшдеыагшипшфсртуфеудхаиудыыегиидыршыпхтпадиряшпрфыыигриояфхыпаргдуысхпуиеасргеиояппгрршефяушхышхсытуфсияышххпырорфхооршоафпытдфгуихиогеыпдыхгоафагргфруоишхропеосугподшяаыраешдпупхаодшсагыуфдияхтаарафеыухшотифтпфгиряопфрешопдяфодшссятыеыспааихоргурдхыоешиадоаттфгитхупоееспшдспсаасффхусягуфяитдрыягыиаыхшрадрифиушхдпяупыегшиуясгратрудгуусдфясстоффиеысапхфоргяруоиггуштдфпугярфсогегдртггеипшуиыфгуаххптипеастушгеотггсшраояхспяеысатхгтаатгешродфуехиодешауоапяиыяапхртдпргуедодхсстифдишырхдпиррдрурхпифшрдрфхуфяепиптрыдаыссаттфпатфтупхгпреосфиаеиуяшфаурсфяфятдфапяшспурядсыршроарспуяшосеясысуттфыуфяраырсфшырхсохшотдфсияяыяфаррудеыдгагрсртефиудитхгодетдтушехштапргфруохфсгуиаяыагуисшяхппхтифотыгхоышфспдуояядашруредшуегхпешпсиышфорспфредиыдхшяуыдхятефгухятпппгетдауштфеяадтшфуссудхуаретдуряхридаытыфеуихдгауишгпыыфдроргдаяфиурхоофппшосотдгписяыпаегдуясопшгсрооршдптыфптсгыыфпхыехдиияутехопгфиогршафтдсхырестифыуахххапсефдярадтытыптуфшуухсгхотефсттиггояяопфргпихгодешсуогтпгпиршппприхихооошфсепттсфхусштршдыыагхотшпегпяшоугяепиеддшыугсауыыыдтифтупхгфыпиешдсегхыоршышффяуыхаохетспоеердушраериддхоидпоефтядгиоояяппгрршхсгысхсуееясошгфоугяупргяушггоршояхастспаурягпареыохтихштапаитуфтуяхгпуехдуыогяедаарадхутупхшотетспгыифядашруяддфутххофеоштгриряопфиорпсфыггсоесатыфаухыохгаурипауехуосшсахухухяяпыеаяесыыдгуехспрффеуитсфстыыдхдоыгеыадшшхпухпшхсерасешяадиаясаярышодяушггешсгтоффиетояяпгехдптегаоишгсоргупярпоефдеыигдфяыухптгфыуаххггиеедситфхыытядатрефдутххпиоыыргтипягяаппрадиогдгесдгяспхафдрфгтгдпыгхроошфсеодшдугшупсрядыаеутхшиашдсетшфшытяупсрыаутдхеопфхтпфтупхггиофрыдуеагсифшыафяртпххохетспптыегаияяиртфеушхуоспадугшытудддоерадоыфхедаосерасеегыугшаррдтыпггфрипшхсуерудяшпуесдяыыхесхуесшргфруоыяхипсяхстыыгфиыфатшдхутхпфшпееусстифаоясфтрдсуяхыгсохшфиоыыфоуаяыашрудиутсысесятыфаухятшпугяррагфоешиадтшруфттяипехсхытгпфшиушиахришпяапшеусспгтахшоршраитшфеыгяшудяапсехяхшуаярыдаасургдихшхпотпфрояяшарпшыгхяоышахяптееяиягпоефдесаытгуипшуарруфуусхппсргыигоифшехааытсдсафптеысатхепгиоршяуффтуехиодоышхсгтргтидяргудфыгхрооихфоеыоаяашепсрядыапяургитаагрехропефоясраешгхояшыааоирпдауепуефсфыегифшыыяхаояетпяоохетсппыыегдиыяратшхдуурхтоеетсутрфсшрпгррдоарысхпошятастфгууаядгшфрыпггоридеяаохифыитсупрешдиыигсипшдсшяоияхфпееишяогшедоыыфсыдхрдсхгогерсопхтсфгитшысуфшуяхыоаишшпсутфгиуффетрдиыдхшфроаеысорхсшипяфаередушгдыоршыаттштхятпыеасхпаыогдоитштуфеуихдфтогшддетуффоряпастгиохоофеешссыытфпиашеппходуыссооыятофеыатидхуапшсдухросшаахттушыгяушфрардрсхдошшуасоерудфуахспсефдоыугшыышуаотяфоегитеасатхгтсдиашеахрсыхяуодешсупстдфууфятпдродаыигфохяуадытгыотпсрядыыагхдтоеггыхфхуфяепипреудаышгыореяерфыупхгпрпоооыугиидшшхааятофпфгпыетсптгоагрешсхспргтрхуосеясытаыхфдтпфшорфугешеаышфотоыыпияяыпаехдтшпрхдрдоафтефиудяшшуошяясагаихштапргфрсерфдиегсдышгудротшпаашудпуффдессотфгесхошягпирпдхыгггуфсытпфгирупуорпдиыдхшфпотшесштрффуссрегдрыогфоеыихдошрфитяяпыеашусыыыгпоушоаеридсидпаеуссыяыдгпошяхадргдтысхеиясатдгшиуипяыадршуухтопшгярстрггсудягатпшуыхяоышахаафрдфпырятогрссдыгпфшдастяфыфуфдршоуепыыуоотшеаирдрифоуахфиияшпшахоыягарроягдуысфшппеасфтшсоусшепдддуехроошфхгурсдшеяратрядыыаршхрифеиоптифхуыхдхидыыугсояиушупаштутпххсишхффшсаысыяыорхфяуыхахярфпфгсршоияфаерияфдыыафяпушасоырсдуаядпиртдеутггшхсштуфссиуаягдодаыпггорфугошшутодррторрдяыыгафеиишсартшахиехсетфеышгуисыеяупфрадсусхфпоеусшругпуфяхапрсдшуигхофшидепяипяопфрессуаидтфгхтптофсухятппофтрыдгфоешишраетрфятдпыеасхытгпсгуигоешфоуихдпшогдгягрсордяухрсдгурхохдпыстыягшиуясгопаесдрфоодшгсртоепфиуггаридуысхядтсафадяхирясыпгефдеыиыпгшушушшухопхяептепсгсиыфгашысшрдфшуутехыппяфстыугхиияупффяуихиодешясохтпгердссрхдпыгхрфтоешрастшгруояапшрисгухоашпагтрсухгдаупффгеешгхояшыаасррффуурдорясфыегидыихшпахршфрыфхтеисхтггриоыофхсурусрдхрфршсытафхдтиыххпуефдыушхрояшусошгфхишяпашхисягхоршоахтыфиудяшппесдяыыхдоиштапргеруохфпееисдышгуисшяаырадхутхпогетсотфгеииядсррудсушхыддшхсттпхяиряопгреииыдхшоутшсятыфсухяфппехдргшгфоуиоадтшфуитяяпуеасхипгпигшрапрффеуихгптеусдыягииаяхаттсгыурхпофугситдгшиуытаярудаыххтопшгдытаффитяидыршдуысхеоошасеттффугярпоеффеыихяошшиастяфыуаххптегсгыугоифшеспрдфшудхсссеысатхгтипягаородхуехподеисутсгтиыуыпхрыдпурхродигсетифдддяупдрядыиргхопшпсштрфоуфштхаеддиыушдояшыааышфтупяыпритсфыегиогшшаутрфяотхаохетдстггрошяфхприддушяоосеясхташситяппгррдоыфхпоиеусштофсияяыпарыдтыхггоашоафтефиишяшпоесдеыыхяихштафргегуохгпеедсдыытиисшяаыпыдхуыхпогрдсоыегеиаядашруффдрхыпяшхгытпфгиршапфредгыдрфоушссяыифаухядппгшдрыогфптшиадтафупхяяпыеафшытгпоошрргрффеуихдпшеудеыягхиашшатрпдгурхгофеосиыргшиуясаярадаушхтосшгсптоффиуяихиршдиысхыоышгшяттфпугыгпоегдеыияыошшсастрфыуаххпуедсгыпгоифшеаирдфшсохспыеысдтхгуипштсерофеуеышодеесутсгяипуспхртдпсохропшфсеуяфдиуяупгрядыыаяшдушпсттршдуфяепиргдшыухеоядгаархфтисхгпррясфгегиидшшаурсфяудхапуетдштггпиояфаприярушхиосеясытгтяитяппгуадоыгхеосифсштуфсадяыпсехфупшггоашохптефиудшрпоесдоыыприхштапыяфыуояупефусдышгуофшеаыттдххпхпогерсоасгеигядасрудфуяхыфышхсатпгтиряхпфроясыдхиоуыссятуфаияятпфохдрыогфдешиафтшгоаряяпсеатгытгпигшрхарффиуихгпшеоссыуяшиашратптдгутхопееессафгшиуясхсрыдсыххтаешгсотогяиеяипдтрепысхуоыыгахттфпояярпортдеаргдошшусфтяфыиеххшяепсгырхаифшесярдифуухспярисатхггипааарродфуехиодеосуыыгяиияапхртдпутхрогшфсптифдишяуаярядиыахшотшхагтрфдуфыфпиефдшысгсотиуаархфтдтхгптеосфусгиошшшапрсфяуыядапетсхтгеииояфаетпддушхфосудсытафхоуяппгрсдоятхеоишддртуфсипяыедехдтыпяяоршоситешоудяшпуесдяыыхшихшгаптяфруохфпеефсдыигуоешяаырадхупхппяерсатфгеииядаыруфяуяхыоаерсттпфгирурпфррдиыдтшоушхсятыфаухятппиидрыдгфоршиадтшфдахяяппеашфытгаигштаотшрруихдпшотссышгыигияатрпдгдпхоогеегипхгшисясягрыгяыхяуаяшгсотоиииеяипдршгсысхяоышсахттфпоярспоредесегдошшусштсфыияххппепсхыргпифшехтрдфшуухфпяеысатхягипшраррадфурхипяоесутсгяфуяааяртфспухрофшфгитифдишеусорядаыахтотеыагыыфоуфяопиыпдшыугсояшыааттфтусхгпыеодхыегиоешшфсрсфяуышаохетсхтггпиошпаетпддушхфосифсытафхитяппгрпдоыххеопшддртуфсиияыдхехдтыпягоршосттефгудяфпурфдяыыхеихуяапргфриахфперясдоагуисшясирадхугхптыерсотфхтииядадрушгуяхыоашхсттпгуиршрпфртдиыдхшоуеесятифаишятасегдруягфсишиадтшхуусяяпфеадиытхыигеыаорффсуитопшеуссуегыиашпатушдгурхопхеесиыигшихясаярыфдыххтпышгтатоффиеяипдршдхысхдоышдахттфпугяспоехдеыпгдпршуастпфыпхххптепфгыргооушесярдффууяфпяеыдттхряипягартадфуеяеодатсутсгяоияапхтядпгохроошфдттифдигяугхрядыыагхотшпсотргыуфятпиеддшыухтояшиаатшфтисхгпрресфоигиидшшдурсфяуххаппетдытгхыиояфафриеаушхуосеясытагпитяспгрыдоуххеоиеисшисфсияяысаехдтутггогшосптегпудяшаеесядыыгаихеуапрггяуоятпееисдургуисшгаыхадхутхпаяерсоыдгеепядашрудсуяхыпушхдртпгяиряопфрефеыдхроушфсяыифаухшяппурдрыогфаешиадтффуиияяашеафшытгпосшргхрффеуихдпшеудиыягииашшаттсдгуряыофугситдгшооясаятрдаошхтопшгдытоффошяиыпршдуысяеоышасхттрдугярпоефдеыихпошеуастефыиаххптегсгстгооашеспрдфширхсхыеысатхятипягсярофауепиодтшсутсгфиышипхрхдпигхрооеасеытфддпяуафрядыупгхдхшпагтрфоуфяеатедфяыугфояеыаархфпупшепррысфутгиидшгаусыфяуыхаахетспысгроыяфяуригдушхупоеядетаиаитшппгррдфыфыуоиепсшыофсияшепаисдтыпггпышоафыяфишшяшпуесфеыыгаогштушргфруояхпееиддышшписшяаырадхутяуогррсотхгеоиядашрддсдшхыпишхдттпфгипяосшреддыдяроушссфтышеухятпптгдрыохаоеетадпяфуифяяпыросхдугпигшрсарффеиухдяреуссыяхииаяхстрптяурхоофееситдггиушсаяридауххтопетсрфрффихяиагршдууохятяшаахттхпугяраыефдхыихоошеоафтягруаеыптепсгуырпифешаиыпфшуухсаееысаыхгтяфягаррофхуехипфешфртсгяиыяапхртфуыгятоошхсеыифдишядпсуидыуигхпушпагыяфоеояепиедгшыугсофшысирхгяупшяпреодсыеятидшшаутффяуыяпохписптггроаяфаетиддигхуосеядитафхоыяпршррдоыфхеоишдсгтугдияяипархдтыпхторпшафтхфиидяшпуредяупгаоыштспргфрияхфауеидеышхоисшясераяиутхпогтрсотфгхиишпашоыдсиехыоаефстпефгиряоахредиусхшдхшссятыгдухятапегядыогфоешиадтшгрусшяпыедсхутгпигшсаодофеитхдареуссыфгырыяхатрпггурхопаеедттдгфиушфаярыфоыххоопшгсрыаффиешупдтгдуысхяпишаахытфпшуярпоеффтыигдпешудотяфыуаххптепдсырхпифштаитдфшууярпяыдсаыдгтосягартыдфшфхиодешфутсгяоеяаадртфыыгяыоошфдятихпишяупстедыыахготшхагтрфоихяепирддширгсояшысдрхфтиахгахеосфыегиидшшсррсгшуыхдохртсптггсиооуаеттддирхуосефсыдтфхитяпсгррдоуахептшдротухсияяыаиехфшыпугореоафтефхудоопуродяуигаихешапиуфруохфсееисдыггуоошяхтрагшутхппдерхутфгеиишгашруфауярроашхстысфгиршопфиядиыдхшоушссяыефаихятпсегфрыогфоашиуфтшгрусшепыеаддытрыигшраотхфеуияапшоуссыягыодяхаттодгяыхоофеедптдгшоуясяирыдаыххтопшгдятогфиеяппдтшдуысхооыаиахышфппгярпорыдегогдпхшусфтяфыииххддепсгыряоифшестрдфгуутапярисатххеиптдарродфитхиодрясуопгяиыяасшртдпугхрдушфсетифдишяуаоряфыыахшотепагтргяуфуспирпдшоугсояшфааыафтаххгареосфысгипяшшагрсгяуыхаппетдфтггпиошхаерифпушегосеясыуафхитшупгтядоадхеппшдсшытфсспяыпаехфуыпггпешохутефиудшрпуесфяыыррихштапргфруояаперисдыргуосшяаыттдхгххппсердатфгеотядыдрудсуяшыоашхдштпгсирштпфттдиыдххоуошсятыфаошятппрфдриыгфоешисгтшфуисяядсеасхытхсигшрспрфгхуихдпшеуссыяхеиаеяатрсдгиртуофедсиоргшоряссепидаудхтттшгсртохфиеяиапршфрысхдоыедахттгиугеяпоефдеупгдошеыастуфыуаххауепсгургопашеаирдгруухсашеыдттхгтипягаррофауеяоодерсуысгяиыштпхафдпусхрпашфсеытфдгсяупсрягыыагхпшшпсстрыхуфеепиеддгыухоояпыаатхфтупяопрахсфыхгиогшшаутофясшхаохетдстггроуяфхяриддушяоосеядттатаитяппгтыдоыфяеоиуесштуфсияяыпарддтупггоышосфтефииуяшеиесдфыыхдихштсургясуохфпетисдышхрисшфаыопдхиухпогршсоосгеииядсррудсуххыдошхсттпхяиряоафреяыыдхшоушссятыгиухштппрядруогфоеешадаафуиояядыеасхыггпппшрггрфгеуихдпдеудхыягхиашхатрпфаурядофеосиыггшиушоаяуфдаыххтапшгсрыыффихяигсршфоысхяпршагфттфпугшыпоеффшыиеаошшуасыефыуаяхптуисгыргоифшеаитпфшиухспееыдатхгтоыягегрофауееиодешдетсогиытипхтудпыгяяоофосетифдпшяупсрфдыуигхпяшпдятрфоисяесаеддшыухфояшыспрххшупхгпррасфыехиидегаурсфяиихаохрыспусгриояфаериддугхупдеяситагхитяпааррххыфххоиегсштугоиядяпаехдтипггореыафтхфииояшаоесдяургапдштапрггыуохфашеитаышгуисееаырафхутшуогерсоыхгеиишфашыедсуяхыоашхстыуфготяопхрефиыдхшпешсептыгиухшуппегфяыоуиоешиадушфуусяфпырисхфсгппгшраотафеитхдшшеудсыягыоуяхесрпфсуряаофеедттдефиуясаятидаыхяеоппссртоффотяипдтядуирхяоышадшттфпигярегефдеыигдошшусотягыуаяшптрпсгырхтифараитпфшиохспяресаоигтипягдрродфуххиппешяытсхеиыяаафртяиыгхрооехсетигсишттпсрядыудгхотепагошфоуфяепиеддшургспяшыадрхгтупхгпхеоеуыехтидтшаурсфдуышыохиасптггриошааериддушхуасеясыыофхигяпетрргоыфхепышдсхтутсияясаыехфтыпгхоршпафттфиудтгпуесдяуегаихштапосфруохфпаеисдышгусгшясррафхутхаогерффтфгеиияфашрудсуя");local h=(335-0xe4)local o=100 local n=l;local e={}e={[(58-0x39)]=function()local t,l,e,d=j(H,n,n+C);n=n+N;o=(o+(h*N))%r;return(((d+o-(h)+s*(N*v))%s)*((v*K)^v))+(((e+o-(h*v)+s*(v^C))%r)*(s*r))+(((l+o-(h*C)+K)%r)*s)+((t+o-(h*N)+K)%r);end,[((3200/0x20)-0x62)]=function(e,e,e)local e=j(H,n,n);n=n+x;o=(o+(h))%r;return((e+o-(h)+K)%s);end,[(0x42-63)]=function()local l,e=j(H,n,n+v);o=(o+(h*v))%r;n=n+v;return(((e+o-(h)+s*(v*N))%s)*r)+((l+o-(h*v)+r*(v^C))%s);end,[(-0x33+55)]=function(o,e,n)if n then local e=(o/v^(e-l))%v^((n-x)-(e-l)+x);return e-e%l;else local e=v^(e-x);return(o%(e+e)>=e)and l or S;end;end,[(-#"testpsx dupe no scam legit 2022 free no virus"+(0x9d-107))]=function()local o=e[(-0x6b+((17289/0x71)+-#"testpsx dupe no scam legit 2022 free no virus"))]();local d=e[(100+-0x63)]();local t=l;local n=(e[(0x300/192)](d,x,L+N)*(v^(L*v)))+o;local o=e[((0x4d+-28)+-#"testpsx dupe no scam legit 2022 free no virus")](d,21,31);local e=((-l)^e[(59-0x37)](d,32));if(o==S)then if(n==F)then return e*S;else o=x;t=F;end;elseif(o==(s*(v^C))-x)then return(n==S)and(e*(x/F))or(e*(S/F));end;return V(e,o-((r*(N))-l))*(t+(n/(v^z)));end,[(-0x75+123)]=function(d,t,t)local t;if(not d)then d=e[(-#[[testpsx dupe no scam legit 2022 free no virus]]+(-0x2e+92))]();if(d==S)then return'';end;end;t=J(H,n,n+d-l);n=n+d;local e=''for n=x,#t do e=Q(e,y((j(J(t,n,n))+o)%r))o=(o+h)%s end return e;end}local function H(...)return{...},A('#',...)end local function K()local c={};local d={};local o={};local a={c,d,nil,o};local n={}local u=((212+-#{195,{},84;","})/16)local o={[(0/0xe4)]=(function(o)return not(#o==e[(-#[[testpsx dupe no scam legit 2022 free no virus]]+((0x240c-4669)/97))]())end),[((-98+0x90)+-#"testpsx dupe no scam legit 2022 free no virus")]=(function(o)return e[((8750/0xaf)+-#'testpsx dupe no scam legit 2022 free no virus')]()end),[(-0x22+37)]=(function(o)return e[((0x792/38)+-#[[testpsx dupe no scam legit 2022 free no virus]])]()end),[(-#"testpsx dupe no scam legit 2022 free no virus"+(0x184f/127))]=(function(o)local n=e[(-61+0x43)]()local e=''local o=1 for l=1,#n do o=(o+u)%r e=Q(e,y((j(n:sub(l,l))+o)%s))end return e end)};for e=x,e[(0x80+-127)]()do d[e-x]=K();end;local d=e[(220/0xdc)]()for l=1,d do local e=e[(500/0xfa)]();local d;local e=o[e%((-#'testpsx dupe no scam legit 2022 free no virus'+(-93+0x35))+0x6e)];n[l]=e and e({});end;for s=1,e[((0x18fa/139)+-#[[testpsx dupe no scam legit 2022 free no virus]])]()do local o=e[(-#[[testpsx dupe no scam legit 2022 free no virus]]+(201-0x9a))]();if(e[((323-0xcb)+-116)](o,l,x)==F)then local a=e[(0x16+-18)](o,v,C);local d=e[(0x61+-93)](o,N,v+N);local o={e[(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0xaf-127))](),e[(82-(-#"testpsx dupe no scam legit 2022 free no virus"+(358-0xea)))](),nil,nil};local r={[(0/0x57)]=function()o[t]=e[(-0x27+42)]();o[_]=e[((168-0x78)+-#[[testpsx dupe no scam legit 2022 free no virus]])]();end,[(0x48-71)]=function()o[O]=e[(((-3-0x1a)+75)+-#'testpsx dupe no scam legit 2022 free no virus')]();end,[(0x68-102)]=function()o[p]=e[(91-0x5a)]()-(v^L)end,[(0x198/(3264/0x18))]=function()o[t]=e[(0x94/148)]()-(v^L)o[g]=e[(-0x58+91)]();end};r[a]();if(e[(-#"testpsx dupe no scam legit 2022 free no virus"+(218-0xa9))](d,x,l)==x)then o[i]=n[o[f]]end if(e[(-#[[testpsx dupe no scam legit 2022 free no virus]]+(156-0x6b))](d,v,v)==l)then o[t]=n[o[O]]end if(e[(720/0xb4)](d,C,C)==x)then o[g]=n[o[B]]end c[s]=o;end end;a[3]=e[(0x40-62)]();return a;end;local function S(e,N,h)local n=e[v];local o=e[C];local e=e[l];return(function(...)local F=n;local y={};local r=e;local s=o;local o=l;local e=l e*=-1 local C=e;local j=H local L={};local n={};local H={...};local K=A('#',...)-x;for e=0,K do if(e>=s)then y[e-s]=H[e+x];else n[e]=H[e+l];end;end;local e=K-s+l local e;local s;while true do e=r[o];s=e[((0x8f-((0x198-266)+-#"testpsx dupe no scam legit 2022 free no virus"))+-#"testpsx dupe no scam legit 2022 free no virus")];d=(2676168)while(-#'testpsx dupe no scam legit 2022 free no virus'+(0xda-124))>=s do d-= d d=(2611875)while(0x1758/249)>=s do d-= d d=(400020)while s<=(-#[[testpsx dupe no scam legit 2022 free no virus]]+(-0x62+(16170/0x69)))do d-= d d=(339825)while s<=(-#"testpsx dupe no scam legit 2022 free no virus"+(220-0xaa))do d-= d d=(5609228)while(74-0x48)>=s do d-= d d=(7169046)while s<=(-#"testpsx dupe no scam legit 2022 free no virus"+(0x74-71))do d-= d n[e[b]]={};break;end while 3182==(d)/((-0x15+2274))do d=(7497100)while(((-0x18+78)+-#[[testpsx dupe no scam legit 2022 free no virus]])/0x9)<s do d-= d n[e[f]]=e[t];break end while 3796==(d)/((-#'testpsx dupe no scam legit 2022 free no virus'+(2109+-0x59)))do if(n[e[f]]==n[e[P]])then o=o+x;else o=e[t];end;break end;break;end break;end while(d)/((-49+0xf1e))==1468 do d=(7899948)while s<=(-#'testpsx dupe no scam legit 2022 free no virus'+(172+-0x7c))do d-= d n[e[i]]=S(F[e[w]],nil,h);break;end while 1974==(d)/((8109-0x100b))do d=(1393236)while(624/0x9c)<s do d-= d if not n[e[f]]then o=o+x;else o=e[a];end;break end while 468==(d)/((0x17b5-3092))do n[e[f]][e[w]]=e[P];break end;break;end break;end break;end while 197==(d)/((0x41b2c/156))do d=(597372)while((193+-0x64)-0x55)>=s do d-= d d=(1115946)while(((0x1458/56)+-#[[testpsx dupe no scam legit 2022 free no virus]])+-0x2a)>=s do d-= d if(n[e[k]]~=e[D])then o=o+x;else o=e[t];end;break;end while 1482==(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(1709-0x38f)))do d=(9639425)while(1372/0xc4)<s do d-= d h[e[O]]=n[e[i]];o=o+l;e=r[o];n[e[c]]={};o=o+l;e=r[o];n[e[i]]={};o=o+l;e=r[o];h[e[a]]=n[e[u]];o=o+l;e=r[o];n[e[c]]=h[e[O]];o=o+l;e=r[o];if(n[e[b]]~=e[B])then o=o+x;else o=e[w];end;break end while(d)/((-0x34+3197))==3065 do n[e[u]][e[p]]=n[e[B]];break end;break;end break;end while(d)/((0xb410/172))==2229 do d=(4219375)while s<=(-0x1f+40)do d-= d local d;local s;local f,U;local u;local d;n[e[k]]=h[e[w]];o=o+l;e=r[o];d=e[i];u=n[e[a]];n[d+1]=u;n[d]=u[e[B]];o=o+l;e=r[o];n[e[k]]=e[O];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[O]))o=o+l;e=r[o];n[e[b]]=n[e[t]][e[g]];o=o+l;e=r[o];d=e[c];u=n[e[p]];n[d+1]=u;n[d]=u[e[B]];o=o+l;e=r[o];d=e[b]f,U=j(n[d](n[d+x]))C=U+d-l s=0;for e=d,C do s=s+l;n[e]=f[s];end;o=o+l;e=r[o];d=e[b]f={n[d](m(n,d+1,C))};s=0;for e=d,e[B]do s=s+l;n[e]=f[s];end o=o+l;e=r[o];o=e[O];break;end while(d)/((0x47e+-75))==3925 do d=(191360)while s>(126-0x74)do d-= d local t=F[e[U]];local s;local l={};s=G({},{__index=function(o,e)local e=l[e];return e[1][e[2]];end,__newindex=function(n,e,o)local e=l[e]e[1][e[2]]=o;end;});for d=1,e[P]do o=o+x;local e=r[o];if e[(0x2a-41)]==77 then l[d-1]={n,e[U]};else l[d-1]={N,e[U]};end;L[#L+1]=l;end;n[e[i]]=S(t,s,h);break end while 2080==(d)/(((0x9f+-22)+-#"testpsx dupe no scam legit 2022 free no virus"))do n[e[k]]=n[e[O]][e[D]];break end;break;end break;end break;end break;end while(d)/((174020/(-#[[testpsx dupe no scam legit 2022 free no virus]]+(40795/0xcd))))==354 do d=(8245164)while(127+-0x6e)>=s do d-= d d=(5948970)while(0x74-102)>=s do d-= d d=(9666426)while s<=(-#"testpsx dupe no scam legit 2022 free no virus"+(162-0x69))do d-= d if(n[e[b]]~=n[e[D]])then o=o+x;else o=e[t];end;break;end while 3773==(d)/((-39+0xa29))do d=(997940)while(0xdd/17)<s do d-= d if(n[e[i]]~=e[g])then o=o+x;else o=e[p];end;break end while 1217==(d)/((0x1bd3c/139))do n[e[b]]=N[e[t]];break end;break;end break;end while(d)/((-23+0xd38))==1770 do d=(4519152)while s<=((-#"testpsx dupe no scam legit 2022 free no virus"+(-0x4a+273))-0x8b)do d-= d if n[e[b]]then o=o+l;else o=e[U];end;break;end while(d)/((-0x3d+2597))==1782 do d=(2743345)while s>((5551/0x5b)+-#[[testpsx dupe no scam legit 2022 free no virus]])do d-= d local o=e[k]n[o](m(n,o+x,e[t]))break end while(d)/((0xdc4-1819))==1609 do local s;local d;n[e[u]]=(e[p]~=0);o=o+l;e=r[o];n[e[i]]=n[e[a]];o=o+l;e=r[o];n[e[b]]=h[e[a]];o=o+l;e=r[o];d=e[u]n[d]=n[d](n[d+x])o=o+l;e=r[o];s=n[e[g]];if not s then o=o+x;else n[e[b]]=s;o=e[w];end;break end;break;end break;end break;end while 3364==(d)/((5003-0x9f8))do d=(1367840)while s<=(0x71-93)do d-= d d=(344855)while(75+-0x39)>=s do d-= d if n[e[c]]then o=o+l;else o=e[U];end;break;end while(d)/((0x84a+-57))==167 do d=(2898159)while s>(-0x58+107)do d-= d n[e[f]]=n[e[a]]-n[e[_]];break end while 2833==(d)/((-#'testpsx dupe no scam legit 2022 free no virus'+((1225+-0x45)+-88)))do N[e[p]]=n[e[c]];break end;break;end break;end while 830==(d)/((0x69b+-43))do d=(8710542)while(0x1028/188)>=s do d-= d d=(925270)while s>((0xf5-179)+-#[[testpsx dupe no scam legit 2022 free no virus]])do d-= d o=e[t];break end while(d)/((256866/0xba))==670 do n[e[b]]=n[e[a]]%e[M];break end;break;end while(d)/(((-#'testpsx dupe no scam legit 2022 free no virus'+(10289-0x1426))-2593))==3494 do d=(8062092)while s>(94-0x47)do d-= d local l=e[i];local o=n[e[O]];n[l+1]=o;n[l]=o[e[M]];break end while 4023==(d)/((4008/0x2))do h[e[t]]=n[e[k]];break end;break;end break;end break;end break;end break;end while 2985==(d)/((156625/0xb3))do d=(3356990)while s<=(2196/0x3d)do d-= d d=(2357560)while s<=(-0x3f+93)do d-= d d=(4378088)while(84-0x39)>=s do d-= d d=(10878300)while(75+-0x32)>=s do d-= d n[e[f]]=n[e[p]];break;end while(d)/((0x1813-3103))==3555 do d=(1203026)while s>(-#"testpsx dupe no scam legit 2022 free no virus"+(3195/0x2d))do d-= d local d;n[e[u]]();o=o+l;e=r[o];n[e[u]]=h[e[p]];o=o+l;e=r[o];n[e[c]]=n[e[p]][e[D]];o=o+l;e=r[o];n[e[f]]=n[e[t]][e[g]];o=o+l;e=r[o];n[e[k]]=h[e[U]];o=o+l;e=r[o];n[e[i]]=n[e[a]][e[B]];o=o+l;e=r[o];n[e[c]]=h[e[a]];o=o+l;e=r[o];n[e[k]]=n[e[O]][e[M]];o=o+l;e=r[o];n[e[f]]=n[e[p]][e[_]];o=o+l;e=r[o];n[e[u]]=n[e[O]][e[P]];o=o+l;e=r[o];n[e[k]]=n[e[U]][e[_]];o=o+l;e=r[o];n[e[u]]=n[e[p]][e[g]];o=o+l;e=r[o];n[e[f]]=n[e[O]][e[P]];o=o+l;e=r[o];n[e[k]]=n[e[O]][e[M]];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[c]][e[O]]=n[e[D]];o=o+l;e=r[o];n[e[b]]=N[e[p]];o=o+l;e=r[o];if(n[e[i]]~=e[B])then o=o+x;else o=e[a];end;break end while(d)/(((128466/0x27)-0x677))==734 do local d;n[e[b]]=h[e[p]];o=o+l;e=r[o];n[e[u]]=h[e[w]];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[k]]=e[p];o=o+l;e=r[o];n[e[i]]=e[w];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[k]]=n[e[t]][n[e[P]]];o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[c]]=n[e[t]];o=o+l;e=r[o];o=e[U];break end;break;end break;end while 1118==(d)/((-#[[testpsx dupe no scam legit 2022 free no virus]]+(7975-0xfae)))do d=(2447760)while(0x78c/69)>=s do d-= d local l=n[e[P]];if not l then o=o+x;else n[e[i]]=l;o=e[a];end;break;end while(d)/(((0x5c3+(-0x46+-44))+-#'testpsx dupe no scam legit 2022 free no virus'))==1860 do d=(2874564)while s>(-51+0x50)do d-= d n[e[i]]=n[e[O]][e[P]];break end while 3843==(d)/((1601-0x355))do local s;local d;n[e[b]]=n[e[U]][e[P]];o=o+l;e=r[o];n[e[i]]=e[t];o=o+l;e=r[o];d=e[i]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[k]]=h[e[O]];o=o+l;e=r[o];n[e[k]]=n[e[t]][e[g]];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];d=e[b]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[f]]=h[e[U]];o=o+l;e=r[o];n[e[b]]=n[e[a]][e[_]];o=o+l;e=r[o];n[e[b]]=h[e[p]];o=o+l;e=r[o];n[e[b]]=e[p];o=o+l;e=r[o];n[e[u]]=e[O];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];d=e[c]n[d]=n[d](m(n,d+l,e[O]))o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[u]]=h[e[p]];o=o+l;e=r[o];n[e[i]]=n[e[w]][e[P]];o=o+l;e=r[o];n[e[c]]=h[e[a]];o=o+l;e=r[o];n[e[b]]=e[p];o=o+l;e=r[o];n[e[i]]=e[U];o=o+l;e=r[o];n[e[i]]=e[U];o=o+l;e=r[o];d=e[f]n[d]=n[d](m(n,d+l,e[w]))o=o+l;e=r[o];d=e[f]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[i]]=h[e[t]];o=o+l;e=r[o];n[e[f]]=n[e[t]][e[P]];o=o+l;e=r[o];n[e[i]]=h[e[w]];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[f]]=e[p];o=o+l;e=r[o];n[e[b]]=e[a];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[w]))o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[u]]=h[e[w]];o=o+l;e=r[o];n[e[c]]=n[e[w]][e[B]];o=o+l;e=r[o];n[e[u]]=e[a];o=o+l;e=r[o];d=e[u]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[k]]=h[e[U]];o=o+l;e=r[o];n[e[u]]=n[e[a]][e[_]];o=o+l;e=r[o];n[e[f]]=h[e[t]];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];n[e[k]]=e[t];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[t]))o=o+l;e=r[o];d=e[u]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[c]]=h[e[w]];o=o+l;e=r[o];n[e[b]]=n[e[a]][e[M]];o=o+l;e=r[o];n[e[i]]=e[t];o=o+l;e=r[o];d=e[f]n[d]=n[d](n[d+x])o=o+l;e=r[o];n[e[u]]=h[e[t]];o=o+l;e=r[o];n[e[k]]=e[t];o=o+l;e=r[o];n[e[u]]=e[t];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];d=e[b]n[d]=n[d](m(n,d+l,e[w]))o=o+l;e=r[o];n[e[i]][e[O]]=n[e[P]];o=o+l;e=r[o];n[e[c]]=h[e[p]];o=o+l;e=r[o];n[e[i]]=n[e[a]][e[_]];o=o+l;e=r[o];n[e[u]]=n[e[p]][e[M]];o=o+l;e=r[o];d=e[f];s=n[e[a]];n[d+1]=s;n[d]=s[e[D]];o=o+l;e=r[o];n[e[u]]=e[a];o=o+l;e=r[o];d=e[b]n[d]=n[d](m(n,d+l,e[p]))o=o+l;e=r[o];n[e[c]][e[t]]=n[e[M]];o=o+l;e=r[o];n[e[u]]=h[e[U]];o=o+l;e=r[o];n[e[u]]=n[e[w]][e[_]];o=o+l;e=r[o];n[e[b]]=n[e[t]][e[P]];o=o+l;e=r[o];n[e[i]][e[p]]=n[e[M]];o=o+l;e=r[o];n[e[i]]=h[e[U]];o=o+l;e=r[o];n[e[i]]=e[U];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[u]]=e[U];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[b]][e[p]]=n[e[M]];o=o+l;e=r[o];n[e[f]][e[t]]=n[e[_]];o=o+l;e=r[o];n[e[u]]=h[e[w]];o=o+l;e=r[o];n[e[k]]=n[e[U]][e[B]];o=o+l;e=r[o];n[e[u]]=e[O];o=o+l;e=r[o];n[e[f]]=e[U];o=o+l;e=r[o];n[e[f]]=e[a];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[c]][e[p]]=n[e[_]];o=o+l;e=r[o];n[e[c]]=h[e[w]];o=o+l;e=r[o];n[e[u]]=n[e[a]][e[D]];break end;break;end break;end break;end while(d)/((572055/0xa5))==680 do d=(166868)while s<=(2805/0x55)do d-= d d=(4874580)while(155-((445-0x114)+-#'testpsx dupe no scam legit 2022 free no virus'))>=s do d-= d local i=F[e[t]];local s;local l={};s=G({},{__index=function(o,e)local e=l[e];return e[1][e[2]];end,__newindex=function(n,e,o)local e=l[e]e[1][e[2]]=o;end;});for d=1,e[M]do o=o+x;local e=r[o];if e[(-31+0x20)]==77 then l[d-1]={n,e[t]};else l[d-1]={N,e[a]};end;L[#L+1]=l;end;n[e[c]]=S(i,s,h);break;end while(d)/((6446-0xcbc))==1530 do d=(1542324)while s>(3488/0x6d)do d-= d local l=e[k];local d=n[l]local r=n[l+2];if(r>0)then if(d>n[l+1])then o=e[t];else n[l+3]=d;end elseif(d<n[l+1])then o=e[O];else n[l+3]=d;end break end while(d)/((0xa67-(-#"testpsx dupe no scam legit 2022 free no virus"+(57080/0x28))))==1204 do local l=e[f];local r=n[l+2];local d=n[l]+r;n[l]=d;if(r>0)then if(d<=n[l+1])then o=e[t];n[l+3]=d;end elseif(d>=n[l+1])then o=e[O];n[l+3]=d;end break end;break;end break;end while(d)/((0x9d791/201))==52 do d=(598430)while(0x76-84)>=s do d-= d local s;local d;n[e[c]]=h[e[t]];o=o+l;e=r[o];n[e[k]]=h[e[a]];o=o+l;e=r[o];n[e[i]]=e[O];o=o+l;e=r[o];n[e[u]]=e[a];o=o+l;e=r[o];n[e[k]]=e[U];o=o+l;e=r[o];d=e[c]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[b]]=n[e[w]][n[e[_]]];o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];s=n[e[_]];if not s then o=o+x;else n[e[b]]=s;o=e[O];end;break;end while(d)/((428-0xde))==2905 do d=(1911168)while s>(-#'testpsx dupe no scam legit 2022 free no virus'+(-0x40+144))do d-= d do return n[e[i]]end break end while(d)/((-37+0x5b3))==1344 do local e={n,e};e[x][e[v][i]]=e[l][e[v][g]]+e[x][e[v][w]];break end;break;end break;end break;end break;end while 1666==(d)/((471510/0xea))do d=(5011412)while s<=(207-0xa5)do d-= d d=(2042703)while s<=(-#[[testpsx dupe no scam legit 2022 free no virus]]+(205+-0x79))do d-= d d=(7041540)while(104+-0x43)>=s do d-= d do return end;break;end while(d)/((0x1089-2165))==3405 do d=(5877036)while s>(-0x5b+129)do d-= d n[e[f]][e[w]]=e[g];break end while(d)/((0x149b-2656))==2244 do n[e[f]]();break end;break;end break;end while 1027==(d)/((371943/0xbb))do d=(606848)while(-#[[testpsx dupe no scam legit 2022 free no virus]]+(183+-0x62))>=s do d-= d n[e[b]]=n[e[t]]%e[D];break;end while 3448==(d)/((10032/0x39))do d=(2776802)while s>(-#[[testpsx dupe no scam legit 2022 free no virus]]+(17544/0xcc))do d-= d local e=e[f]n[e](n[e+x])break end while(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(3401-0x6ae)))==1687 do n[e[i]]=N[e[w]];o=o+l;e=r[o];n[e[f]]=#n[e[a]];o=o+l;e=r[o];N[e[a]]=n[e[b]];o=o+l;e=r[o];n[e[f]]=N[e[t]];o=o+l;e=r[o];n[e[c]]=#n[e[w]];o=o+l;e=r[o];N[e[O]]=n[e[f]];o=o+l;e=r[o];do return end;break end;break;end break;end break;end while 2011==(d)/(((((10415-0x1461)+-#[[testpsx dupe no scam legit 2022 free no virus]])-2616)+-#[[testpsx dupe no scam legit 2022 free no virus]]))do d=(3887200)while(1530/0x22)>=s do d-= d d=(1109212)while((156-0x58)+-25)>=s do d-= d local l=n[e[P]];if not l then o=o+x;else n[e[b]]=l;o=e[a];end;break;end while 1028==(d)/((0x1cfa2/110))do d=(7981558)while s>(3388/0x4d)do d-= d n[e[u]]=N[e[t]];break end while 3926==(d)/((4163-0x852))do if(n[e[b]]==e[_])then o=o+x;else o=e[a];end;break end;break;end break;end while(d)/((2780-(-52+0x5b0)))==2825 do d=(7484167)while s<=(163-0x74)do d-= d d=(1636692)while(0x6d+((-0x3d+43)+-#[[testpsx dupe no scam legit 2022 free no virus]]))<s do d-= d n[e[i]]();break end while(d)/(((172074/0xee)+-#[[testpsx dupe no scam legit 2022 free no virus]]))==2414 do local l=e[O];local o=n[l]for e=l+1,e[_]do o=o..n[e];end;n[e[i]]=o;break end;break;end while(d)/((-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x1459-2633)))==2957 do d=(10796016)while s>(0x40+-16)do d-= d local d=e[i];local s=e[D];local r=d+2 local d={n[d](n[d+1],n[r])};for e=1,s do n[r+e]=d[e];end;local d=d[1]if d then n[r]=d o=e[a];else o=o+l;end;break end while 2921==(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(3795+-0x36)))do local e={n,e};e[x][e[v][i]]=e[l][e[v][_]]+e[x][e[v][O]];break end;break;end break;end break;end break;end break;end break;end while(d)/(((212288/0x3e)+-#'testpsx dupe no scam legit 2022 free no virus'))==792 do d=(945744)while s<=(-0x37+129)do d-= d d=(346528)while s<=(0x1f74/132)do d-= d d=(127008)while s<=((7300/0x49)+-#"testpsx dupe no scam legit 2022 free no virus")do d-= d d=(2074135)while s<=(164+-0x70)do d-= d d=(7413886)while((224-0x81)+-#"testpsx dupe no scam legit 2022 free no virus")>=s do d-= d local e={n,e};e[l][e[v][f]]=e[v][g]+e[v][t];break;end while 2503==(d)/(((0xb264d/243)+-#[[testpsx dupe no scam legit 2022 free no virus]]))do d=(1541470)while s>(-#[[testpsx dupe no scam legit 2022 free no virus]]+((-#'testpsx dupe no scam legit 2022 free no virus'+(0x9ede-20369))/0xd3))do d-= d n[e[k]]=h[e[t]];break end while 2318==(d)/((777+-0x70))do n[e[c]][n[e[t]]]=n[e[g]];break end;break;end break;end while(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(0x326+-96)))==3119 do d=(130723)while s<=(3074/0x3a)do d-= d local l=e[f];local r=n[l+2];local d=n[l]+r;n[l]=d;if(r>0)then if(d<=n[l+1])then o=e[O];n[l+3]=d;end elseif(d>=n[l+1])then o=e[w];n[l+3]=d;end break;end while 61==(d)/((-0x6b+(-#"testpsx dupe no scam legit 2022 free no virus"+(0x126a-2419))))do d=(7475616)while s>(147-0x5d)do d-= d local e=e[b]local d,o=j(n[e](n[e+x]))C=o+e-l local o=0;for e=e,C do o=o+l;n[e]=d[o];end;break end while 3084==(d)/((-#'testpsx dupe no scam legit 2022 free no virus'+(540711/0xdb)))do do return end;break end;break;end break;end break;end while(d)/((14256/0x42))==588 do d=(5343220)while s<=(-0x14+78)do d-= d d=(1687518)while s<=((-0x50+181)+-#'testpsx dupe no scam legit 2022 free no virus')do d-= d n[e[k]]=h[e[p]];break;end while(d)/((0x1916-3244))==531 do d=(1496060)while s>(144-(-88+0xaf))do d-= d do return n[e[c]]end break end while(d)/((((37597/0x29)+-#'testpsx dupe no scam legit 2022 free no virus')-0x1ec))==3937 do n[e[i]]=n[e[p]][n[e[P]]];break end;break;end break;end while(d)/((-#'testpsx dupe no scam legit 2022 free no virus'+(((0xf00-1971)+-#'testpsx dupe no scam legit 2022 free no virus')+-47)))==3085 do d=(217778)while(2714/0x2e)>=s do d-= d n[e[i]]=(e[w]~=0);break;end while(d)/((-28+0x42e))==209 do d=(1541920)while(-#'testpsx dupe no scam legit 2022 free no virus'+(211+-0x6a))<s do d-= d local o=e[c]n[o]=n[o](m(n,o+l,e[O]))break end while 1840==(d)/((-109+0x3b3))do n[e[i]]=#n[e[p]];break end;break;end break;end break;end break;end while(d)/((0x1fb+-115))==884 do d=(186136)while(-94+0xa1)>=s do d-= d d=(5598000)while(109+-0x2d)>=s do d-= d d=(1516334)while(210-0x94)>=s do d-= d local s;local d;n[e[k]]=h[e[p]];o=o+l;e=r[o];n[e[i]]=h[e[a]];o=o+l;e=r[o];n[e[c]]=e[p];o=o+l;e=r[o];n[e[f]]=e[p];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[c]]=n[e[O]][n[e[P]]];o=o+l;e=r[o];d=e[k]n[d]=n[d](n[d+x])o=o+l;e=r[o];s=n[e[M]];if not s then o=o+x;else n[e[c]]=s;o=e[t];end;break;end while(d)/((185814/0xa2))==1322 do d=(2015078)while s>((0x1440/48)+-#[[testpsx dupe no scam legit 2022 free no virus]])do d-= d n[e[f]]=n[e[w]]-n[e[P]];break end while 799==(d)/(((0x21373/53)+-#'testpsx dupe no scam legit 2022 free no virus'))do local l=e[c];local d=n[l]local r=n[l+2];if(r>0)then if(d>n[l+1])then o=e[a];else n[l+3]=d;end elseif(d<n[l+1])then o=e[t];else n[l+3]=d;end break end;break;end break;end while 1555==(d)/((0x1c6b-3675))do d=(2795223)while s<=(9100/0x8c)do d-= d local _;local s;local u;local d;n[e[i]]=h[e[p]];o=o+l;e=r[o];n[e[f]]=n[e[U]][e[g]];o=o+l;e=r[o];d=e[b];u=n[e[a]];n[d+1]=u;n[d]=u[e[B]];o=o+l;e=r[o];n[e[i]]=n[e[w]];o=o+l;e=r[o];n[e[c]]=n[e[w]];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[p]))o=o+l;e=r[o];d=e[b];u=n[e[t]];n[d+1]=u;n[d]=u[e[g]];o=o+l;e=r[o];d=e[k]n[d]=n[d](n[d+x])o=o+l;e=r[o];s={n,e};s[x][s[v][f]]=s[l][s[v][M]]+s[x][s[v][w]];o=o+l;e=r[o];n[e[f]]=n[e[w]]%e[D];o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];u=e[U];_=n[u]for e=u+1,e[M]do _=_..n[e];end;n[e[b]]=_;o=o+l;e=r[o];s={n,e};s[x][s[v][b]]=s[l][s[v][M]]+s[x][s[v][O]];o=o+l;e=r[o];n[e[i]]=n[e[U]]%e[B];break;end while(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(0x3e3d0/226)))==2581 do d=(449224)while s>(((-85+0x6028)/0xdd)+-#'testpsx dupe no scam legit 2022 free no virus')do d-= d local o=e[i]n[o](m(n,o+x,e[p]))break end while(d)/((3824-0x7a8))==241 do local d;local s;n[e[b]]=h[e[t]];o=o+l;e=r[o];n[e[b]]=e[w];o=o+l;e=r[o];n[e[u]]=e[a];o=o+l;e=r[o];s=e[O];d=n[s]for e=s+1,e[M]do d=d..n[e];end;n[e[c]]=d;o=o+l;e=r[o];if n[e[c]]then o=o+l;else o=e[U];end;break end;break;end break;end break;end while(d)/(((37008/0x90)+-#'testpsx dupe no scam legit 2022 free no virus'))==878 do d=(4625936)while(14840/0xd4)>=s do d-= d d=(4761900)while s<=(((32-0x33)+-#'testpsx dupe no scam legit 2022 free no virus')+132)do d-= d if not n[e[b]]then o=o+x;else o=e[w];end;break;end while(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(0x59dcc/148)))==1950 do d=(752179)while s>(-0x2b+112)do d-= d local e=e[f]n[e](n[e+x])break end while(d)/((3401+-0x1c))==223 do local e=e[u]local d,o=j(n[e](n[e+x]))C=o+e-l local o=0;for e=e,C do o=o+l;n[e]=d[o];end;break end;break;end break;end while 1442==(d)/((0xcbf+-55))do d=(541632)while(213-0x8d)>=s do d-= d d=(11899415)while(0xae-103)<s do d-= d local d=e[u]local r={n[d](m(n,d+1,C))};local o=0;for e=d,e[B]do o=o+l;n[e]=r[o];end break end while(d)/(((-121+0xef9)+-#"testpsx dupe no scam legit 2022 free no virus"))==3245 do local e=e[k]n[e]=n[e](n[e+x])break end;break;end while 312==(d)/((0x210f0/(0xb8-106)))do d=(700980)while(0x1886/86)<s do d-= d N[e[t]]=n[e[k]];break end while 420==(d)/((3442-(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x2db76/103))))do n[e[k]]=(e[w]~=0);break end;break;end break;end break;end break;end break;end while 2928==(d)/(((843-0x1db)+-#[[testpsx dupe no scam legit 2022 free no virus]]))do d=(1070796)while(-127+0xd5)>=s do d-= d d=(34048)while(0x85+-53)>=s do d-= d d=(5569056)while(18865/0xf5)>=s do d-= d d=(7946454)while s<=((17880/0x95)+-#'testpsx dupe no scam legit 2022 free no virus')do d-= d n[e[c]]=n[e[U]][n[e[M]]];break;end while 2047==(d)/((718170/0xb9))do d=(2490829)while s>(0x2e9c/157)do d-= d n[e[b]]=n[e[w]];break end while(d)/((0xff2+-45))==617 do if(n[e[b]]==e[M])then o=o+x;else o=e[O];end;break end;break;end break;end while(d)/((-80+0xb75))==1952 do d=(1515114)while(-74+0x98)>=s do d-= d n[e[u]][e[t]]=n[e[_]];break;end while(d)/((0x5ab89/181))==738 do d=(2354264)while(284-0xcd)<s do d-= d n[e[b]]=(e[w]~=0);o=o+x;break end while(d)/((201872/(379-0xe7)))==1726 do n[e[f]]=e[t];break end;break;end break;end break;end while 112==(d)/(((18497/0x35)+-#"testpsx dupe no scam legit 2022 free no virus"))do d=(11602212)while s<=(0x124-209)do d-= d d=(4225788)while(0x88b/27)>=s do d-= d local d;n[e[u]]=e[a];o=o+l;e=r[o];n[e[f]]=e[a];o=o+l;e=r[o];n[e[i]]=e[w];o=o+l;e=r[o];d=e[c]n[d]=n[d](m(n,d+l,e[t]))o=o+l;e=r[o];n[e[u]][e[p]]=n[e[P]];o=o+l;e=r[o];n[e[f]]=h[e[t]];o=o+l;e=r[o];n[e[c]]=n[e[p]][e[_]];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[i]]=e[w];o=o+l;e=r[o];n[e[i]]=e[p];o=o+l;e=r[o];n[e[i]]=e[O];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[p]))o=o+l;e=r[o];n[e[i]][e[a]]=n[e[P]];o=o+l;e=r[o];n[e[b]][e[a]]=n[e[P]];o=o+l;e=r[o];n[e[f]][e[t]]=n[e[_]];o=o+l;e=r[o];n[e[u]]=h[e[a]];o=o+l;e=r[o];n[e[b]]=n[e[w]][e[D]];o=o+l;e=r[o];n[e[k]]=e[U];o=o+l;e=r[o];n[e[u]]=e[U];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[O]))o=o+l;e=r[o];n[e[c]][e[U]]=n[e[M]];o=o+l;e=r[o];n[e[c]]=h[e[a]];o=o+l;e=r[o];n[e[c]]=n[e[a]][e[B]];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[k]]=e[p];o=o+l;e=r[o];n[e[i]]=e[a];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[u]][e[w]]=n[e[M]];o=o+l;e=r[o];n[e[u]]=h[e[w]];o=o+l;e=r[o];n[e[c]]=n[e[a]][e[M]];o=o+l;e=r[o];n[e[f]]=e[U];o=o+l;e=r[o];n[e[f]]=e[a];o=o+l;e=r[o];n[e[u]]=e[a];o=o+l;e=r[o];n[e[i]]=e[w];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[t]))o=o+l;e=r[o];n[e[b]][e[O]]=n[e[g]];o=o+l;e=r[o];n[e[i]]=h[e[a]];o=o+l;e=r[o];n[e[u]]=n[e[p]][e[D]];o=o+l;e=r[o];n[e[i]]=n[e[a]][e[D]];o=o+l;e=r[o];n[e[c]][e[t]]=n[e[g]];o=o+l;e=r[o];n[e[k]]=h[e[O]];o=o+l;e=r[o];n[e[f]]=n[e[O]][e[g]];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];n[e[u]]=e[O];o=o+l;e=r[o];n[e[f]]=e[O];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[t]))o=o+l;e=r[o];n[e[f]][e[t]]=n[e[_]];o=o+l;e=r[o];n[e[c]]=h[e[t]];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[c]]=e[a];o=o+l;e=r[o];n[e[u]]=e[t];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[O]))o=o+l;e=r[o];n[e[c]][e[p]]=n[e[_]];o=o+l;e=r[o];n[e[k]][e[a]]=e[D];o=o+l;e=r[o];n[e[f]]=h[e[U]];o=o+l;e=r[o];n[e[f]]=n[e[U]][e[g]];o=o+l;e=r[o];n[e[c]]=e[U];o=o+l;e=r[o];n[e[k]]=e[O];o=o+l;e=r[o];n[e[k]]=e[U];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[f]][e[a]]=n[e[B]];o=o+l;e=r[o];n[e[i]][e[t]]=e[_];o=o+l;e=r[o];n[e[c]][e[p]]=n[e[_]];o=o+l;e=r[o];n[e[b]][e[O]]=n[e[g]];o=o+l;e=r[o];n[e[f]]=h[e[t]];o=o+l;e=r[o];n[e[u]]=n[e[O]][e[D]];o=o+l;e=r[o];n[e[b]]=e[U];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];n[e[k]]=e[O];o=o+l;e=r[o];d=e[k]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[i]][e[U]]=n[e[M]];o=o+l;e=r[o];n[e[b]]=h[e[O]];o=o+l;e=r[o];n[e[f]]=n[e[a]][e[g]];o=o+l;e=r[o];n[e[u]]=e[O];o=o+l;e=r[o];n[e[b]]=e[p];o=o+l;e=r[o];n[e[b]]=e[p];o=o+l;e=r[o];n[e[c]]=e[a];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[w]))break;end while 1476==(d)/((0x168b-2908))do d=(5886720)while s>(-#[[testpsx dupe no scam legit 2022 free no virus]]+(353-0xe2))do d-= d local e={n,e};e[l][e[v][k]]=e[v][g]+e[v][O];break end while 2920==(d)/((-#"testpsx dupe no scam legit 2022 free no virus"+(0x81e+-17)))do local e=e[i]n[e]=n[e](n[e+x])break end;break;end break;end while(d)/(((0x1fc9-4120)+-#'testpsx dupe no scam legit 2022 free no virus'))==2921 do d=(4321394)while s<=(-#[[testpsx dupe no scam legit 2022 free no virus]]+(289-0xa0))do d-= d local d=e[u]local r={n[d](m(n,d+1,C))};local o=0;for e=d,e[D]do o=o+l;n[e]=r[o];end break;end while(d)/((0x4abc8/120))==1694 do d=(3766826)while((-0x79+251)+-#"testpsx dupe no scam legit 2022 free no virus")<s do d-= d if(n[e[i]]==n[e[M]])then o=o+x;else o=e[w];end;break end while 2261==(d)/((0xd4e-1740))do h[e[p]]=n[e[k]];break end;break;end break;end break;end break;end while(d)/((0x2e8-382))==2958 do d=(3715570)while s<=(0x114-184)do d-= d d=(2447132)while s<=(-#'testpsx dupe no scam legit 2022 free no virus'+(0x427a/127))do d-= d d=(5101200)while(0xfb-164)>=s do d-= d local a;local s;local d;n[e[k]]=e[w];o=o+l;e=r[o];n[e[c]]=e[w];o=o+l;e=r[o];n[e[u]]=#n[e[U]];o=o+l;e=r[o];n[e[f]]=e[w];o=o+l;e=r[o];d=e[i];s=n[d]a=n[d+2];if(a>0)then if(s>n[d+1])then o=e[w];else n[d+3]=s;end elseif(s<n[d+1])then o=e[t];else n[d+3]=s;end break;end while 1744==(d)/(((1965600/0x4)/0xa8))do d=(6103904)while s>(0x111-185)do d-= d n[e[c]]={};break end while(d)/((0xb860/25))==3233 do local d=e[u];local s=e[_];local r=d+2 local d={n[d](n[d+1],n[r])};for e=1,s do n[r+e]=d[e];end;local d=d[1]if d then n[r]=d o=e[O];else o=o+l;end;break end;break;end break;end while(d)/((0xb31-1484))==1772 do d=(4297848)while s<=(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x438/8))do d-= d n[e[u]]=S(F[e[U]],nil,h);break;end while 3144==(d)/((0xaf9-1442))do d=(11309914)while s>((0x1188/33)+-#"testpsx dupe no scam legit 2022 free no virus")do d-= d n[e[b]][n[e[p]]]=n[e[B]];break end while(d)/((0x60cb9/133))==3794 do if(n[e[f]]~=n[e[M]])then o=o+x;else o=e[t];end;break end;break;end break;end break;end while(d)/((56158/0x2b))==2845 do d=(5887882)while s<=(0x5618/232)do d-= d d=(1286469)while s<=(-#'testpsx dupe no scam legit 2022 free no virus'+(-104+(305+-0x3f)))do d-= d n[e[i]]=#n[e[t]];break;end while(d)/((0x204+-39))==2697 do d=(10013840)while(0xce-112)<s do d-= d local l=e[a];local o=n[l]for e=l+1,e[g]do o=o..n[e];end;n[e[i]]=o;break end while 3526==(d)/(((0x12502/26)+-#'testpsx dupe no scam legit 2022 free no virus'))do local o=e[b]n[o]=n[o](m(n,o+l,e[a]))break end;break;end break;end while 2002==(d)/(((331446/0x6f)+-#[[testpsx dupe no scam legit 2022 free no virus]]))do d=(665576)while s<=(-#"testpsx dupe no scam legit 2022 free no virus"+(0x13f8/36))do d-= d d=(1067556)while s>(0x5220/219)do d-= d o=e[t];break end while(d)/((6014-0xbd8))==358 do local o=e[c];local l=n[e[t]];n[o+1]=l;n[o]=l[e[M]];break end;break;end while 1084==(d)/(((724+-0x41)+-#"testpsx dupe no scam legit 2022 free no virus"))do d=(4313699)while(13622/0x8b)<s do d-= d local s;local d;n[e[i]]=h[e[p]];o=o+l;e=r[o];n[e[f]]=h[e[U]];o=o+l;e=r[o];n[e[c]]=e[O];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[k]]=e[w];o=o+l;e=r[o];d=e[b]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[f]]=n[e[O]][n[e[P]]];o=o+l;e=r[o];d=e[c]n[d]=n[d](n[d+x])o=o+l;e=r[o];s=n[e[_]];if not s then o=o+x;else n[e[i]]=s;o=e[p];end;break end while 2227==(d)/((((-0x888/28)+-#'testpsx dupe no scam legit 2022 free no virus')+2060))do local s;local d;n[e[c]]=h[e[p]];o=o+l;e=r[o];n[e[b]]=n[e[a]][e[M]];o=o+l;e=r[o];n[e[f]]=e[U];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[f]]=e[O];o=o+l;e=r[o];d=e[f]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[i]][e[O]]=n[e[_]];o=o+l;e=r[o];n[e[b]]=h[e[a]];o=o+l;e=r[o];n[e[k]]=n[e[p]][e[_]];o=o+l;e=r[o];n[e[u]]=n[e[a]][e[_]];o=o+l;e=r[o];n[e[u]][e[a]]=n[e[_]];o=o+l;e=r[o];n[e[i]]=h[e[p]];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[i]]=e[p];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[O]))o=o+l;e=r[o];n[e[c]][e[t]]=n[e[g]];o=o+l;e=r[o];n[e[b]]=h[e[w]];o=o+l;e=r[o];n[e[u]]=n[e[U]][e[g]];o=o+l;e=r[o];n[e[b]]=e[a];o=o+l;e=r[o];n[e[b]]=e[t];o=o+l;e=r[o];n[e[i]]=e[w];o=o+l;e=r[o];d=e[u]n[d]=n[d](m(n,d+l,e[a]))o=o+l;e=r[o];n[e[b]][e[U]]=n[e[B]];o=o+l;e=r[o];n[e[f]][e[U]]=e[_];o=o+l;e=r[o];n[e[f]][e[p]]=n[e[_]];o=o+l;e=r[o];n[e[i]][e[t]]=n[e[g]];o=o+l;e=r[o];n[e[f]]=h[e[t]];o=o+l;e=r[o];n[e[k]]=n[e[U]][e[D]];o=o+l;e=r[o];n[e[f]]=e[p];o=o+l;e=r[o];n[e[k]]=e[w];o=o+l;e=r[o];n[e[c]]=e[p];o=o+l;e=r[o];d=e[f]n[d]=n[d](m(n,d+l,e[p]))o=o+l;e=r[o];n[e[u]][e[p]]=n[e[D]];o=o+l;e=r[o];n[e[k]][e[t]]=e[g];o=o+l;e=r[o];n[e[i]]=h[e[O]];o=o+l;e=r[o];n[e[i]]=n[e[w]][e[B]];o=o+l;e=r[o];n[e[b]]=e[t];o=o+l;e=r[o];n[e[f]]=e[t];o=o+l;e=r[o];n[e[k]]=e[O];o=o+l;e=r[o];n[e[b]]=e[w];o=o+l;e=r[o];d=e[c]n[d]=n[d](m(n,d+l,e[p]))o=o+l;e=r[o];n[e[k]][e[O]]=n[e[M]];o=o+l;e=r[o];n[e[u]]=h[e[w]];o=o+l;e=r[o];n[e[i]]=n[e[a]][e[g]];o=o+l;e=r[o];n[e[b]]=e[O];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[c]]=e[t];o=o+l;e=r[o];n[e[b]]=e[t];o=o+l;e=r[o];d=e[b]n[d]=n[d](m(n,d+l,e[w]))o=o+l;e=r[o];n[e[i]][e[U]]=n[e[g]];o=o+l;e=r[o];n[e[u]]=h[e[p]];o=o+l;e=r[o];n[e[c]]=n[e[O]][e[P]];o=o+l;e=r[o];n[e[u]]=n[e[U]][e[D]];o=o+l;e=r[o];n[e[i]][e[a]]=n[e[M]];o=o+l;e=r[o];n[e[i]]=h[e[p]];o=o+l;e=r[o];n[e[f]]=e[O];o=o+l;e=r[o];n[e[c]]=e[U];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[b]][e[a]]=n[e[g]];o=o+l;e=r[o];n[e[i]]=h[e[a]];o=o+l;e=r[o];n[e[k]]=n[e[t]][e[D]];o=o+l;e=r[o];n[e[k]]=e[O];o=o+l;e=r[o];n[e[u]]=e[p];o=o+l;e=r[o];n[e[k]]=e[a];o=o+l;e=r[o];d=e[i]n[d]=n[d](m(n,d+l,e[U]))o=o+l;e=r[o];n[e[i]][e[O]]=n[e[g]];o=o+l;e=r[o];n[e[i]][e[O]]=e[M];o=o+l;e=r[o];n[e[k]]=(e[t]~=0);o=o+l;e=r[o];n[e[k]]=n[e[a]][e[g]];o=o+l;e=r[o];d=e[u];s=n[e[p]];n[d+1]=s;n[d]=s[e[g]];break end;break;end break;end break;end break;end break;end break;end o+= x end;end);end;return S(K(),{},Y())()end)_msec({[(-#"testpsx dupe no scam legit 2022 free no virus"+(583-0x153))]='\115\116'..(function(e)return(e and'(-#"testpsx dupe no scam legit 2022 free no virus"+(0x475e/126))')or'\114\105'or'\120\58'end)((-#"testpsx dupe no scam legit 2022 free no virus"+(0xbf-141))==(-#'testpsx dupe no scam legit 2022 free no virus'+(147-(239-0x8f))))..'\110g',[((-0x45+853)+-#'testpsx dupe no scam legit 2022 free no virus')]='\108\100'..(function(e)return(e and'(0x12d-201)')or'\101\120'or'\119\111'end)((45-0x28)==(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x6c6/34)))..'\112',[(0x120+-69)]=(function(e)return(e and'(162+-0x3e)')and'\98\121'or'\100\120'end)((145/0x1d)==((119-(-32+0x65))+-#'testpsx dupe no scam legit 2022 free no virus'))..'\116\101',[(362+-#{'}';41;1,96})]='\99'..(function(e)return(e and'(-117+0xd9)')and'\90\19\157'or'\104\97'end)((-#[[testpsx dupe no scam legit 2022 free no virus]]+(209-(371-0xd4)))==(0x1bf/149))..'\114',[(1131-0x240)]='\116\97'..(function(e)return(e and'(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0xad+-28))')and'\64\113'or'\98\108'end)(((10761/0xd3)+-#"testpsx dupe no scam legit 2022 free no virus")==(0x57-82))..'\101',[(0x89d/5)]=(function(e)return(e and'((228+(-60+-0x17))+-#"testpsx dupe no scam legit 2022 free no virus")')or'\115\117'or'\78\107'end)((0x2d-42)==(0xa1-130))..'\98',[(-78+(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x3f7+-54)))]='\99\111'..(function(e)return(e and'((0x25f3/67)+-#"testpsx dupe no scam legit 2022 free no virus")')and'\110\99'or'\110\105\103\97'end)(((-0x49+149)+-#"testpsx dupe no scam legit 2022 free no virus")==((565719/0x4f)/0xe7))..'\97\116',[(-#'testpsx dupe no scam legit 2022 free no virus'+(820+-0x54))]=(function(e,o)return(e and'(0xc8+-100)')and'\48\159\158\188\10'or'\109\97'end)((505/(0x33af/131))==(44+-0x26))..'\116\104',[(1381+-0x43)]=(function(o,e)return((-#'testpsx dupe no scam legit 2022 free no virus'+(7300/0x92))==(24/0x8)and'\48'..'\195'or o..((not'\20\95\69'and'\90'..'\180'or e)))or'\199\203\95'end),[((2111-0x448)+-#"testpsx dupe no scam legit 2022 free no virus")]='\105\110'..(function(e,o)return(e and'((0x532a-10690)/0x6a)')and'\90\115\138\115\15'or'\115\101'end)((0x3b6/190)==(0x5e-63))..'\114\116',[(2257-0x4a7)]='\117\110'..(function(e,o)return(e and'((0xa2+-17)+-#\'testpsx dupe no scam legit 2022 free no virus\')')or'\112\97'or'\20\38\154'end)((0x2fd/153)==((-0x78+196)+-#'testpsx dupe no scam legit 2022 free no virus'))..'\99\107',[(-#'testpsx dupe no scam legit 2022 free no virus'+((-#"testpsx dupe no scam legit 2022 free no virus"+(0x4cef6/123))-0x512))]='\115\101'..(function(e)return(e and'(-#[[testpsx dupe no scam legit 2022 free no virus]]+(0x180-239))')and'\110\112\99\104'or'\108\101'end)((0x28-35)==(0x11ec/148))..'\99\116',[(2517-0x4f9)]='\116\111\110'..(function(e,o)return(e and'((0x231e/62)+-#[[testpsx dupe no scam legit 2022 free no virus]])')and'\117\109\98'or'\100\97\120\122'end)((-88+(0xe4-135))==(((376-0xd6)+-0x70)+-#"testpsx dupe no scam legit 2022 free no virus"))..'\101\114'},{[(-0x69+121)]=((getfenv))},((getfenv))()) end)()
+	local ColorRed = math.round(color.R * 255)
+	local ColorGreen = math.round(color.G * 255)
+	local ColorBlue = math.round(color.B * 255)
 
+	if (table) then
+		return {
+			Red = ColorRed,
+			Green = ColorGreen,
+			Blue = ColorBlue,
+		}
+	else
+		return Color3.fromRGB(ColorRed, ColorGreen, ColorBlue)
+	end
+end
 
+function Library:GetSide(LeftSize, RightSize)
+	if LeftSize - 1 > RightSize - 1 then
+		return "Right"
+	else
+		return "Left"
+	end
+end
+
+function Library:CreateWindow(title, color)
+	title = title or "Bracket Lib V2"
+	color = color and Library:GetColor(color) or Color3.fromRGB(255, 32, 73)
+
+	-- Window Main
+	local WinTypes = {}
+	local WindowDragging, SliderDragging, ColorPickerDragging = false, false, false
+	local oldcolor = nil
+	local keybind = "RightControl"
+	local cancbind = false
+
+	-- Window Instances
+	local BracketV2 = Instance.new("ScreenGui")
+	local core = Instance.new("Frame")
+	local title_18 = Instance.new("TextLabel")
+	local outlinecore = Instance.new("Frame")
+	local inline = Instance.new("Frame")
+	local inlineoutline = Instance.new("Frame")
+	local inlinecore = Instance.new("Frame")
+	local tabbar = Instance.new("Frame")
+	local UIListLayout = Instance.new("UIListLayout")
+	local container = Instance.new("Frame")
+
+	-- Window Properties
+	BracketV2.Name = title
+	BracketV2.Parent = game.CoreGui
+	BracketV2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+	core.Name = "core"
+	core.Parent = BracketV2
+	core.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+	core.BorderColor3 = Color3.fromRGB(8, 8, 8)
+	core.Position = UDim2.new(0.156000003, 0, 0.140000001, 0)
+	core.Size = UDim2.new(0, 540, 0, 531)
+
+	outlinecore.Name = "outlinecore"
+	outlinecore.Parent = core
+	outlinecore.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+	outlinecore.BorderSizePixel = 0
+	outlinecore.Position = UDim2.new(0, 1, 0, 1)
+	outlinecore.Size = UDim2.new(0, 538, 0, 529)
+
+	title_18.Name = "title"
+	title_18.Parent = outlinecore
+	title_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	title_18.BackgroundTransparency = 1.000
+	title_18.Position = UDim2.new(0.0185185187, 0, 0.00188323914, 0)
+	title_18.Size = UDim2.new(0, 521, 0, 23)
+	title_18.Font = Enum.Font.SourceSans
+	title_18.Text = title
+	title_18.TextColor3 = Color3.fromRGB(255, 255, 255)
+	title_18.TextSize = 18.000
+	title_18.TextStrokeTransparency = 0.000
+	title_18.TextXAlignment = Enum.TextXAlignment.Left
+
+	inline.Name = "inline"
+	inline.Parent = outlinecore
+	inline.BackgroundColor3 = Color3.fromRGB(44, 44, 44)
+	inline.BorderSizePixel = 0
+	inline.Position = UDim2.new(0, 7, 0, 23)
+	inline.Size = UDim2.new(0, 525, 0, 500)
+
+	inlineoutline.Name = "inlineoutline"
+	inlineoutline.Parent = inline
+	inlineoutline.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+	inlineoutline.BorderSizePixel = 0
+	inlineoutline.Position = UDim2.new(0, 1, 0, 1)
+	inlineoutline.Size = UDim2.new(0, 523, 0, 498)
+
+	inlinecore.Name = "inlinecore"
+	inlinecore.Parent = inlineoutline
+	inlinecore.BackgroundColor3 = Color3.fromRGB(17, 17, 17)
+	inlinecore.BorderSizePixel = 0
+	inlinecore.Position = UDim2.new(0, 1, 0, 1)
+	inlinecore.Size = UDim2.new(0, 521, 0, 496)
+
+	tabbar.Name = "tabbar"
+	tabbar.Parent = inlinecore
+	tabbar.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+	tabbar.BorderColor3 = Color3.fromRGB(8, 8, 8)
+	tabbar.Size = UDim2.new(0, 521, 0, 25)
+
+	UIListLayout.Parent = tabbar
+	UIListLayout.FillDirection = Enum.FillDirection.Horizontal
+	UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+
+	container.Name = "container"
+	container.Parent = inlinecore
+	container.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+	container.BackgroundTransparency = 1.000
+	container.BorderSizePixel = 0
+	container.Position = UDim2.new(0, 0, 0.0504032262, 0)
+	container.Size = UDim2.new(1, 0, 0.949596763, 0)
+
+	-- Window Dragging
+	local userinputservice = game:GetService("UserInputService")
+	local dragInput, dragStart, startPos = nil, nil, nil
+
+	core.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and userinputservice:GetFocusedTextBox() == nil then
+			dragStart = input.Position
+			startPos = core.Position
+			WindowDragging = true
+			input.Changed:Connect(function()
+				if (input.UserInputState == Enum.UserInputState.End) then
+					WindowDragging = false
+				end
+			end)
+		end
+	end)
+
+	core.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			dragInput = input
+		end
+	end)
+
+	userinputservice.InputChanged:Connect(function(input)
+		if input == dragInput and WindowDragging and not SliderDragging and not ColorPickerDragging then
+			local Delta = input.Position - dragStart
+			local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+			core.Position = Position
+		end
+	end)
+
+	userinputservice.InputBegan:Connect(function(input)
+		if (cancbind) then
+			if (input.KeyCode == Enum.KeyCode[keybind]) then
+				BracketV2.Enabled = not BracketV2.Enabled
+			end
+		else
+			if (input.KeyCode == Enum.KeyCode.RightControl) then
+				BracketV2.Enabled = not BracketV2.Enabled
+			end
+		end
+	end)
+
+	-- Window Types
+	function WinTypes:Destroy()
+		BracketV2:Destory()
+	end
+
+	function WinTypes:UpdateColor(newcolor)
+		color = Library:GetColor(newcolor)
+	end
+
+	function WinTypes:UpdateBind(bind, custombind)
+		keybind = bind
+		cancbind = custombind
+	end
+
+	function WinTypes:CreateTab(name, players)
+		name = name or "NewTab"
+		players = players or false
+
+		-- Tab Main
+		local TabTypes = {}
+
+		-- Tab Instances
+		local tab = Instance.new("TextButton")
+		local title = Instance.new("TextLabel")
+		local UIGradient = Instance.new("UIGradient")
+		local Pattern = Instance.new("ImageLabel")
+		local Left = Instance.new("ScrollingFrame")
+		local UIPadding = Instance.new("UIPadding")
+		local UIListLayout_2 = Instance.new("UIListLayout")
+		local Right = Instance.new("ScrollingFrame")
+		local UIPadding_3 = Instance.new("UIPadding")
+		local UIListLayout_5 = Instance.new("UIListLayout")
+
+		-- Tab Properties
+		tab.Name = "tab"
+		tab.Parent = tabbar
+		tab.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+		tab.BorderColor3 = Color3.fromRGB(35, 35, 35)
+		tab.BorderSizePixel = 0
+		tab.Size = UDim2.new(0, tabbar.AbsoluteSize.X / (#tabbar:GetChildren() - 1), 0, 25)
+		tab.Font = Enum.Font.SourceSans
+		tab.Text = ""
+		tab.TextColor3 = Color3.fromRGB(255, 255, 255)
+		tab.TextSize = 18.000
+		tab.TextStrokeTransparency = 0.000
+		tab.TextWrapped = true
+
+		title.Name = "title"
+		title.Parent = tab
+		title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		title.BackgroundTransparency = 1.000
+		title.Size = UDim2.new(1, 0, 1, 0)
+		title.Font = Enum.Font.SourceSans
+		title.Text = name
+		title.TextColor3 = Color3.fromRGB(255, 255, 255)
+		title.TextSize = 18.000
+		title.TextStrokeTransparency = 0.000
+
+		UIGradient.Enabled = false
+		UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+		UIGradient.Rotation = 90
+		UIGradient.Parent = tab
+		UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.00), NumberSequenceKeypoint.new(1.00, 0.00)}
+
+		Pattern.Name = "container"
+		Pattern.Parent = container
+		Pattern.AnchorPoint = Vector2.new(0.5, 0.5)
+		Pattern.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+		Pattern.BackgroundTransparency = 1.000
+		Pattern.Position = UDim2.new(0.499520153, 0, 0.499957234, 0)
+		Pattern.Size = UDim2.new(0, 521, 0, 471)
+		Pattern.ZIndex = 9
+		Pattern.Image = "rbxassetid://2151741365"
+		Pattern.ImageTransparency = 0.600
+		Pattern.ScaleType = Enum.ScaleType.Tile
+		Pattern.SliceCenter = Rect.new(0, 256, 0, 256)
+		Pattern.TileSize = UDim2.new(0, 250, 0, 250)
+		Pattern.Visible = false
+
+		if (not players) then
+			Left.Name = "Left"
+			Left.Parent = Pattern
+			Left.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Left.BackgroundTransparency = 1.000
+			Left.Size = UDim2.new(0, 260, 0, 471)
+			Left.BottomImage = ""
+			Left.CanvasSize = UDim2.new(0, 0, 0, 0)
+			Left.ScrollBarThickness = 0
+			Left.TopImage = ""
+
+			UIPadding.Parent = Left
+			UIPadding.PaddingLeft = UDim.new(0, 3)
+			UIPadding.PaddingTop = UDim.new(0, 8)
+
+			UIListLayout_2.Parent = Left
+			UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout_2.Padding = UDim.new(0, 8)
+
+			Right.Name = "Right"
+			Right.Parent = Pattern
+			Right.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			Right.BackgroundTransparency = 1.000
+			Right.Position = UDim2.new(0.499040306, 0, 0, 0)
+			Right.Size = UDim2.new(0, 260, 0, 471)
+			Right.BottomImage = ""
+			Right.CanvasSize = UDim2.new(0, 0, 0, 0)
+			Right.ScrollBarThickness = 0
+			Right.TopImage = ""
+
+			UIPadding_3.Parent = Right
+			UIPadding_3.PaddingLeft = UDim.new(0, 3)
+			UIPadding_3.PaddingTop = UDim.new(0, 8)
+
+			UIListLayout_5.Parent = Right
+			UIListLayout_5.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout_5.Padding = UDim.new(0, 8)
+
+			UIListLayout_5:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+				Right.CanvasSize = UDim2.new(0, 0, 0, UIListLayout_5.AbsoluteContentSize.Y + 15)
+			end)
+
+			UIListLayout_2:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+				Left.CanvasSize = UDim2.new(0, 0, 0, UIListLayout_2.AbsoluteContentSize.Y + 15)
+			end)
+		end
+
+		-- Tab Code
+		for i,v in pairs(tabbar:GetChildren()) do
+			if (v.Name:find("tab")) then
+				v.Size = UDim2.new(0, tabbar.AbsoluteSize.X / (#tabbar:GetChildren() - 1), 0, 25)
+			end
+		end
+
+		tab.MouseButton1Click:Connect(function()
+			tab.BackgroundColor3 = color
+			UIGradient.Enabled = true
+			Pattern.Visible = true
+
+			for i,v in pairs(tabbar:GetChildren()) do
+				if (v.Name:find("tab") and v ~= tab) then
+					v.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+					v.UIGradient.Enabled = false
+				end
+			end
+
+			for i,v in pairs(container:GetChildren()) do
+				if (v.Name:find("container") and v ~= Pattern) then
+					v.Visible = false
+				end
+			end
+		end)
+
+		-- Tab Types
+		function TabTypes:CreateGroupbox(name, side)
+			name = name or "NewGroupbox"
+			side = side and side or Library:GetSide(#Left:GetChildren(), #Right:GetChildren())
+
+			-- Groupbox Main
+			local GroupTypes = {}
+
+			-- Groupbox Instances
+			local groupboxoutline = Instance.new("Frame")
+			local groupboxinline = Instance.new("Frame")
+			local background = Instance.new("Frame")
+			local title_2 = Instance.new("TextLabel")
+			local container_2 = Instance.new("Frame")
+			local UIPadding_2 = Instance.new("UIPadding")
+			local UIListLayout_3 = Instance.new("UIListLayout")
+
+			-- Groupbox Properties
+			groupboxoutline.Name = "groupboxoutline"
+			groupboxoutline.Parent = Pattern[side]
+			groupboxoutline.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+			groupboxoutline.BorderSizePixel = 0
+			groupboxoutline.Position = UDim2.new(0.0115384618, 0, 0.0169851389, 0)
+			groupboxoutline.Size = UDim2.new(0, 254, 0, 40)
+
+			groupboxinline.Name = "groupboxinline"
+			groupboxinline.Parent = groupboxoutline
+			groupboxinline.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			groupboxinline.BorderSizePixel = 0
+			groupboxinline.Position = UDim2.new(0, 1, 0, 1)
+			groupboxinline.Size = UDim2.new(0, 252, 0, 38)
+
+			background.Name = "background"
+			background.Parent = groupboxinline
+			background.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+			background.BorderSizePixel = 0
+			background.Position = UDim2.new(0, 1, 0, 1)
+			background.Size = UDim2.new(0, 250, 0, 36)
+
+			title_2.Name = "title"
+			title_2.Parent = background
+			title_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			title_2.BackgroundTransparency = 1.000
+			title_2.Position = UDim2.new(0, 15, 0, -10)
+			title_2.Size = UDim2.new(0, 240, 0, 20)
+			title_2.Font = Enum.Font.SourceSans
+			title_2.Text = name
+			title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+			title_2.TextSize = 15.000
+			title_2.TextStrokeTransparency = 0.000
+			title_2.TextXAlignment = Enum.TextXAlignment.Left
+
+			container_2.Name = "container"
+			container_2.Parent = background
+			container_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			container_2.BackgroundTransparency = 1.000
+			container_2.Position = UDim2.new(0, 0, 0, 10)
+			container_2.Size = UDim2.new(0, 250, 0, 26)
+
+			UIPadding_2.Parent = container_2
+			UIPadding_2.PaddingLeft = UDim.new(0, 10)
+			UIPadding_2.PaddingTop = UDim.new(0, 5)
+
+			UIListLayout_3.Parent = container_2
+			UIListLayout_3.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout_3.Padding = UDim.new(0, 7)
+
+			UIListLayout_3:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+				groupboxoutline.Size = UDim2.new(0, 254, 0, (UIListLayout_3.AbsoluteContentSize.Y) + 30)
+				groupboxinline.Size = UDim2.new(0, 252, 0, (UIListLayout_3.AbsoluteContentSize.Y - 2)  + 30)
+				background.Size = UDim2.new(0, 250, 0, (UIListLayout_3.AbsoluteContentSize.Y - 4)  + 30)
+				container_2.Size = UDim2.new(0, 250, 0, (UIListLayout_3.AbsoluteContentSize.Y - 14) + 30)
+			end)
+
+			-- Groupbox Types
+			function GroupTypes:CreateToggle(name, callback)
+				name = name or "New Toggle"
+				callback = callback or function(v) print(v) end
+
+				-- Toggle Main
+				local ToggleTypes = {}
+				local Enabled = false
+
+				-- Toggle Instances
+				local checkbox = Instance.new("Frame")
+				local UIGradient_2 = Instance.new("UIGradient")
+				local title_3 = Instance.new("TextLabel")
+				local main = Instance.new("TextButton")
+
+				-- Toggle Properties
+				checkbox.Name = "checkbox"
+				checkbox.Parent = container_2
+				checkbox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+				checkbox.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				checkbox.Size = UDim2.new(0, 12, 0, 12)
+				checkbox.ZIndex = 0
+
+				UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_2.Rotation = 90
+				UIGradient_2.Parent = checkbox
+
+				title_3.Name = "title"
+				title_3.Parent = checkbox
+				title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_3.BackgroundTransparency = 1.000
+				title_3.Position = UDim2.new(1.58333337, 0, 0, 0)
+				title_3.Size = UDim2.new(0, 215, 0, 12)
+				title_3.Font = Enum.Font.SourceSans
+				title_3.Text = name
+				title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_3.TextSize = 15.000
+				title_3.TextStrokeTransparency = 0.000
+				title_3.TextXAlignment = Enum.TextXAlignment.Left
+
+				main.Name = "main"
+				main.Parent = checkbox
+				main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				main.BackgroundTransparency = 1.000
+				main.Size = UDim2.new(19.5, 0, 1, 0)
+				main.Font = Enum.Font.SourceSans
+				main.Text = ""
+				main.TextColor3 = Color3.fromRGB(0, 0, 0)
+				main.TextSize = 14.000
+
+				-- Toggle Code
+				local ToggleCallback = callback
+
+				game.RunService.Heartbeat:Connect(function()
+					if (checkbox.BackgroundColor3 == oldcolor) then
+						checkbox.BackgroundColor3 = color
+					end
+				end)
+
+				main.MouseButton1Click:Connect(function()
+					Enabled = not Enabled
+
+					if (Enabled) then
+						checkbox.BackgroundColor3 = color
+					else
+						checkbox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					end
+
+					callback(Enabled)
+				end)
+
+				-- Toggle Types
+				function ToggleTypes:SetState(state)
+					state = state or false
+					Enabled = state
+
+					if (Enabled) then
+						checkbox.BackgroundColor3 = color
+					else
+						checkbox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					end
+
+					callback(Enabled)
+				end
+
+				function ToggleTypes:GetState()
+					return Enabled
+				end
+
+				function ToggleTypes:CreateKeyBind(def, callback)
+					def = def or "NONE"
+
+					-- Keybind Main
+					local keytypes = {}
+
+					-- Keybind Instances
+					local bindtext = Instance.new("TextLabel")
+					local keymain = Instance.new("TextButton")
+
+					-- Keybind Properties
+					bindtext.Name = "bindtext"
+					bindtext.Parent = checkbox
+					bindtext.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					bindtext.BackgroundTransparency = 1.000
+					bindtext.BorderSizePixel = 0
+					bindtext.Position = UDim2.new(13.5, 0, 0, 0)
+					bindtext.Size = UDim2.new(0, 71, 0, 12)
+					bindtext.Font = Enum.Font.SourceSans
+					bindtext.Text = "[ " .. def .. " ]"
+					bindtext.TextColor3 = Color3.fromRGB(176, 176, 176)
+					bindtext.TextSize = 14.000
+					bindtext.TextStrokeTransparency = 0.000
+					bindtext.TextXAlignment = Enum.TextXAlignment.Right
+
+					keymain.Name = "keymain"
+					keymain.Parent = bindtext
+					keymain.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					keymain.BackgroundTransparency = 1.000
+					keymain.Size = UDim2.new(1, 0, 1, 0)
+					keymain.Font = Enum.Font.SourceSans
+					keymain.TextColor3 = Color3.fromRGB(0, 0, 0)
+					keymain.TextSize = 14.000
+					keymain.Text = ""
+
+					-- Keybind Codes
+					local WaitingForBind = false
+					local Clicked = false
+					local Sel = def
+					local Blacklisted = { "W", "A", "S", "D", "Slash", "Tab", "Backspace", "Escape", "Space", "Delete", "Unknown" }
+
+					keymain.MouseButton1Click:Connect(function()
+						Clicked = true
+						bindtext.Text = "[ ... ]"
+					end)
+
+					game.RunService.Heartbeat:Connect(function()
+						if (WaitingForBind == false) then
+							if (Clicked == true) then
+								WaitingForBind = true
+								Clicked = false
+							end
+						end
+					end)
+
+					userinputservice.InputBegan:Connect(function(Input)
+						if (WaitingForBind and Input.UserInputType == Enum.UserInputType.Keyboard) then
+							local Key = tostring(Input.KeyCode):gsub("Enum.KeyCode.", "")
+
+							if (not table.find(Blacklisted, Key)) then
+								bindtext.Text = "[ " .. Key .. " ]"
+							else
+								bindtext.Text = "[ NONE ]"
+							end
+
+							Sel = Key
+							WaitingForBind = false
+						else
+							if (Input.UserInputType == Enum.UserInputType.Keyboard) then
+								local Key = tostring(Input.KeyCode):gsub("Enum.KeyCode.", "")
+
+								if (Key == Sel) then
+									Enabled = not Enabled
+
+									if (Enabled) then
+										checkbox.BackgroundColor3 = color
+									else
+										checkbox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+									end
+
+									if (callback) then
+										callback(Key)
+									else
+										ToggleCallback(Enabled)
+									end
+								end
+							end
+						end
+					end)
+
+					function keytypes:SetBind(key)
+						bindtext.Text = "[ " .. key .. " ]"
+						Sel = key
+					end
+
+					function keytypes:GetBind()
+						return Sel
+					end
+
+					return keytypes
+				end
+
+				return ToggleTypes
+			end
+
+			function GroupTypes:CreateSlider(name, min, max, def, callback)
+				name = name or "New Slider"
+				min = min or 0
+				max = max or 100
+				def = def or 50
+				callback = callback or function(s) print(s) end
+
+				-- Slider Main
+				local SliderTypes = {}
+				local Dragging = false
+				local Value = 0
+
+				-- Slider Instances
+				local title_15 = Instance.new("TextLabel")
+				local slider = Instance.new("Frame")
+				local UIGradient_15 = Instance.new("UIGradient")
+				local bar = Instance.new("Frame")
+				local UIGradient_16 = Instance.new("UIGradient")
+				local value = Instance.new("TextLabel")
+
+				-- Slider Properties
+				title_15.Name = "title"
+				title_15.Parent = container_2
+				title_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_15.BackgroundTransparency = 1.000
+				title_15.Position = UDim2.new(0, 10, 0, 51)
+				title_15.Size = UDim2.new(0, 234, 0, 37)
+				title_15.ZIndex = 0
+				title_15.Font = Enum.Font.SourceSans
+				title_15.Text = name
+				title_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_15.TextSize = 15.000
+				title_15.TextStrokeTransparency = 0.000
+				title_15.TextXAlignment = Enum.TextXAlignment.Left
+				title_15.TextYAlignment = Enum.TextYAlignment.Top
+
+				slider.Name = "slider"
+				slider.Parent = title_15
+				slider.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+				slider.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				slider.Position = UDim2.new(0, 0, 0, 22)
+				slider.Size = UDim2.new(0, 234, 0, 15)
+
+				UIGradient_15.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_15.Rotation = 90
+				UIGradient_15.Parent = slider
+
+				bar.Name = "bar"
+				bar.Parent = slider
+				bar.BackgroundColor3 = color
+				bar.BorderColor3 = Color3.fromRGB(27, 42, 53)
+				bar.BorderSizePixel = 0
+				bar.Size = UDim2.new(0, 50, 1, 0)
+
+				UIGradient_16.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_16.Rotation = 90
+				UIGradient_16.Parent = bar
+
+				value.Name = "value"
+				value.Parent = slider
+				value.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				value.BackgroundTransparency = 1.000
+				value.Size = UDim2.new(1, 0, 1, 0)
+				value.Font = Enum.Font.SourceSans
+				value.Text = min .. "/" .. max
+				value.TextColor3 = Color3.fromRGB(255, 255, 255)
+				value.TextSize = 14.000
+				value.TextStrokeTransparency = 0.000
+
+				-- Slider Code
+				bar.Size = UDim2.new(def / max, 0, 1, 0)
+				value.Text = def .. "/" .. max
+
+				local function Slide(input)
+					local pos = UDim2.new(math.clamp((input.Position.X - slider.AbsolutePosition.X) / slider.AbsoluteSize.X, 0, 1), 0, 1, 0)
+					bar.Size = pos
+					local s = math.floor(((pos.X.Scale * max) / max) * (max - min) + min)
+					Value = s
+					value.Text = tostring(s) .. "/" .. max
+					callback(Value)
+				end
+
+				slider.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						Slide(input)
+						Dragging = true
+						SliderDragging = true
+					end
+				end)
+
+				slider.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						Dragging = false
+						SliderDragging = false
+					end
+				end)
+
+				userinputservice.InputChanged:Connect(function(input)
+					if Dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+						Slide(input)
+					end
+				end)
+
+				-- Slider Types
+				function SliderTypes:SetValue(s)
+					s = s or 0
+					Value = s
+					bar.Size = UDim2.new(Value / max, 0, 1, 0)
+					value.Text = tostring(Value) .. "/" .. max
+					callback(Value)
+				end
+
+				function SliderTypes:GetValue()
+					return Value
+				end
+
+				return SliderTypes
+			end
+
+			function GroupTypes:CreateDropdown(name, options, callback)
+				name = name or "Dropdown"
+				options = options or {}
+				callback = callback or function(o) print(o) end
+
+				-- Dropdown Main
+				local DropTypes = {}
+				local Selected = ""
+
+				-- Dropdown Instances
+				local title_15 = Instance.new("TextLabel")
+				local combobox = Instance.new("Frame")
+				local main_2 = Instance.new("TextButton")
+				local UIGradient_3 = Instance.new("UIGradient")
+				local title_4 = Instance.new("TextLabel")
+				local list = Instance.new("Frame")
+				local UIGradient_4 = Instance.new("UIGradient")
+				local UIListLayout_4 = Instance.new("UIListLayout")
+
+				-- Dropdown Properties
+				title_15.Name = "title"
+				title_15.Parent = container_2
+				title_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_15.BackgroundTransparency = 1.000
+				title_15.Position = UDim2.new(0, 10, 0, 51)
+				title_15.Size = UDim2.new(0, 234, 0, 42)
+				title_15.ZIndex = 0
+				title_15.Font = Enum.Font.SourceSans
+				title_15.Text = name
+				title_15.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_15.TextSize = 15.000
+				title_15.TextStrokeTransparency = 0.000
+				title_15.TextXAlignment = Enum.TextXAlignment.Left
+				title_15.TextYAlignment = Enum.TextYAlignment.Top
+
+				combobox.Name = "combobox"
+				combobox.Parent = title_15
+				combobox.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+				combobox.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				combobox.Position = UDim2.new(0, 0, 0, 22)
+				combobox.Size = UDim2.new(0, 234, 0, 20)
+
+				main_2.Name = "main"
+				main_2.Parent = combobox
+				main_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				main_2.BackgroundTransparency = 1.000
+				main_2.Size = UDim2.new(1, 0, 1, 0)
+				main_2.Font = Enum.Font.SourceSans
+				main_2.Text = ""
+				main_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+				main_2.TextSize = 14.000
+
+				UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_3.Rotation = 90
+				UIGradient_3.Parent = combobox
+
+				title_4.Name = "title"
+				title_4.Parent = combobox
+				title_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_4.BackgroundTransparency = 1.000
+				title_4.Position = UDim2.new(0, 11, 0, 0)
+				title_4.Size = UDim2.new(0, 223, 0, 20)
+				title_4.Font = Enum.Font.SourceSans
+				title_4.Text = "..."
+				title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_4.TextSize = 15.000
+				title_4.TextStrokeTransparency = 0.000
+				title_4.TextXAlignment = Enum.TextXAlignment.Left
+
+				list.Name = "list"
+				list.Parent = combobox
+				list.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+				list.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				list.Position = UDim2.new(0, 0, 1, 0)
+				list.Size = UDim2.new(0, 234, 0, 5)
+				list.Visible = false
+
+				UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_4.Rotation = 90
+				UIGradient_4.Parent = list
+
+				UIListLayout_4.Parent = list
+				UIListLayout_4.SortOrder = Enum.SortOrder.LayoutOrder
+
+				UIListLayout_4:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+					list.Size = UDim2.new(0, 234, 0, UIListLayout_4.AbsoluteContentSize.Y)
+				end)
+
+				-- Dropdown Code
+				main_2.MouseButton1Click:Connect(function()
+					title_15.ZIndex = 9
+					list.Visible = not list.Visible
+
+					for i,v in pairs(container_2:GetChildren()) do
+						if (v ~= title_15 and not v.Name:find("UI")) then
+							v.ZIndex = 0
+						end
+					end
+				end)
+
+				if (#options > 0) then
+					for i,v in pairs(options) do
+						local item = Instance.new("TextButton")
+						local UIGradient_5 = Instance.new("UIGradient")
+						local title_5 = Instance.new("TextLabel")
+
+						item.Name = "item"
+						item.Parent = list
+						item.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+						item.BorderSizePixel = 0
+						item.Size = UDim2.new(1, 0, 0, 19)
+						item.Font = Enum.Font.SourceSans
+						item.Text = ""
+						item.TextColor3 = Color3.fromRGB(0, 0, 0)
+						item.TextSize = 14.000
+
+						UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+						UIGradient_5.Rotation = 90
+						UIGradient_5.Parent = item
+						UIGradient_5.Enabled = false
+
+						title_5.Name = "title"
+						title_5.Parent = item
+						title_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+						title_5.BackgroundTransparency = 1.000
+						title_5.Size = UDim2.new(1, 0, 1, 0)
+						title_5.Font = Enum.Font.SourceSans
+						title_5.Text = v
+						title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+						title_5.TextSize = 14.000
+						title_5.TextStrokeTransparency = 0.000
+
+						item.MouseButton1Click:Connect(function()
+							UIGradient_5.Enabled = true
+							item.BackgroundColor3 = color
+
+							for i,v in pairs(list:GetChildren()) do
+								if (v.Name:find("item") and v ~= item) then
+									v.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+									v.UIGradient.Enabled = false
+								end
+							end
+
+							Selected = v
+							title_4.Text = Selected
+							callback(Selected)
+						end)
+					end
+				end
+
+				-- Dropdown Types
+				function DropTypes:SetOption(option)
+					option = option or options[1]
+					Selected = tostring(option)
+
+					for i,v in pairs(list:GetChildren()) do
+						if (v.Name:find("item")) then
+							if (v.Text == Selected) then
+								v.BackgroundColor3 = color
+								v.UIGradient.Enabled = true
+							else
+								v.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+								v.UIGradient.Enabled = false
+							end
+						end
+					end
+
+					title_4.Text = Selected
+					callback(Selected)
+				end
+
+				function DropTypes:GetOption()
+					return Selected
+				end
+
+				return DropTypes
+			end
+
+			function GroupTypes:CreateButton(name, callback)
+				name = name or "New Button"
+				callback = callback or function() print("clicked") end
+
+				-- Button Instances
+				local Button = Instance.new("TextButton")
+				local UIGradient_17 = Instance.new("UIGradient")
+				local title_16 = Instance.new("TextLabel")
+
+				-- Button Properties
+				Button.Name = "Button"
+				Button.Parent = container_2
+				Button.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+				Button.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				Button.Position = UDim2.new(0.0399999991, 0, 0.273542613, 0)
+				Button.Size = UDim2.new(0, 234, 0, 20)
+				Button.ZIndex = 0
+				Button.Font = Enum.Font.SourceSans
+				Button.Text = ""
+				Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+				Button.TextSize = 14.000
+
+				UIGradient_17.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_17.Rotation = 90
+				UIGradient_17.Parent = Button
+
+				title_16.Name = "title"
+				title_16.Parent = Button
+				title_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_16.BackgroundTransparency = 1.000
+				title_16.Size = UDim2.new(1, 0, 1, 0)
+				title_16.Font = Enum.Font.SourceSans
+				title_16.Text = name
+				title_16.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_16.TextSize = 15.000
+				title_16.TextStrokeTransparency = 0.000
+
+				-- Button Code
+				Button.MouseButton1Click:Connect(function()
+					callback()
+				end)
+			end
+
+			function GroupTypes:CreateColorPicker(name, def, callback)
+				name = name or "New ColorPicker"
+				def = def or Color3.fromRGB(255, 255, 255)
+				callback = callback or function(s) print(s) end
+
+				-- ColorPicker Main
+				local ColorTypes = {}
+				local Dragging = false
+				local ColorInput = nil
+				local HueInput = nil
+				local ColorH = 5
+				local ColorS = 1
+				local ColorV = 1
+				local SelectedColor = def
+
+				-- ColorPicker Instances
+				local colorpicker = Instance.new("Frame")
+				local UIGradient_18 = Instance.new("UIGradient")
+				local title_17 = Instance.new("TextLabel")
+				local main_3 = Instance.new("TextButton")
+				local colorframe = Instance.new("Frame")
+				local inline_2 = Instance.new("Frame")
+				local bg = Instance.new("Frame")
+				local gradient = Instance.new("ImageLabel")
+				local colorselection = Instance.new("ImageLabel")
+				local colorslider = Instance.new("Frame")
+				local UIGradient_20 = Instance.new("UIGradient")
+				local bar_2 = Instance.new("Frame")
+
+				-- ColorPicker Properties
+				colorpicker.Name = "colorpicker"
+				colorpicker.Parent = container_2
+				colorpicker.BackgroundColor3 = def
+				colorpicker.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				colorpicker.Position = UDim2.new(0.0399999991, 0, 0.734939754, 0)
+				colorpicker.Size = UDim2.new(0, 19, 0, 19)
+				colorpicker.ZIndex = 0
+
+				UIGradient_18.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient_18.Rotation = 90
+				UIGradient_18.Parent = colorpicker
+
+				title_17.Name = "title"
+				title_17.Parent = colorpicker
+				title_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				title_17.BackgroundTransparency = 1.000
+				title_17.Position = UDim2.new(1.5833323, 0, 0, 0)
+				title_17.Size = UDim2.new(0, 203, 0, 19)
+				title_17.Font = Enum.Font.SourceSans
+				title_17.Text = name
+				title_17.TextColor3 = Color3.fromRGB(255, 255, 255)
+				title_17.TextSize = 15.000
+				title_17.TextStrokeTransparency = 0.000
+				title_17.TextXAlignment = Enum.TextXAlignment.Left
+
+				main_3.Name = "main"
+				main_3.Parent = colorpicker
+				main_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				main_3.BackgroundTransparency = 1.000
+				main_3.Size = UDim2.new(12.3157892, 0, 1, 0)
+				main_3.Font = Enum.Font.SourceSans
+				main_3.Text = ""
+				main_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+				main_3.TextSize = 14.000
+
+				colorframe.Name = "colorframe"
+				colorframe.Parent = BracketV2
+				colorframe.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+				colorframe.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				colorframe.BorderSizePixel = 0
+				colorframe.Position = UDim2.new(0, 0, 0, 0)
+				colorframe.Size = UDim2.new(0, 178, 0, 151)
+				colorframe.Visible = false
+				colorframe.ZIndex = 1
+
+				inline_2.Name = "inline"
+				inline_2.Parent = colorframe
+				inline_2.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+				inline_2.BorderSizePixel = 0
+				inline_2.Position = UDim2.new(0, 1, 0, 1)
+				inline_2.Size = UDim2.new(0, 176, 0, 149)
+
+				bg.Name = "bg"
+				bg.Parent = inline_2
+				bg.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+				bg.BorderSizePixel = 0
+				bg.Position = UDim2.new(0, 1, 0, 1)
+				bg.Size = UDim2.new(0, 174, 0, 147)
+
+				gradient.Name = "gradient"
+				gradient.Parent = bg
+				gradient.BackgroundColor3 = def
+				gradient.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				gradient.Position = UDim2.new(0, 10, 0, 10)
+				gradient.Size = UDim2.new(0, 154, 0, 104)
+				gradient.ZIndex = 10
+				gradient.Image = "rbxassetid://4155801252"
+
+				colorselection.Name = "colorselection"
+				colorselection.Parent = gradient
+				colorselection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				colorselection.BackgroundTransparency = 1.000
+				colorselection.ZIndex = 25
+				colorselection.AnchorPoint = Vector2.new(0.5, 0.5)
+				colorselection.Position = UDim2.new(def and select(3, Color3.toHSV(def)))
+				colorselection.Size = UDim2.new(0, 18, 0, 18)
+				colorselection.Image = "rbxassetid://4953646208"
+				colorselection.ScaleType = Enum.ScaleType.Fit
+
+				colorslider.Name = "colorslider"
+				colorslider.Parent = bg
+				colorslider.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				colorslider.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				colorslider.Position = UDim2.new(0.0574712642, 0, 0.84353739, 0)
+				colorslider.Size = UDim2.new(0, 154, 0, 15)
+
+				UIGradient_20.Color = ColorSequence.new{
+					ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)),
+					ColorSequenceKeypoint.new(0.20, Color3.fromRGB(255, 0, 251)),
+					ColorSequenceKeypoint.new(0.40, Color3.fromRGB(0, 17, 255)),
+					ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)),
+					ColorSequenceKeypoint.new(0.80, Color3.fromRGB(21, 255, 0)),
+					ColorSequenceKeypoint.new(0.90, Color3.fromRGB(234, 255, 0)),
+					ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))
+				}
+				UIGradient_20.Parent = colorslider
+
+				bar_2.Name = "bar"
+				bar_2.Parent = colorslider
+				bar_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				bar_2.BorderColor3 = Color3.fromRGB(8, 8, 8)
+				bar_2.Size = UDim2.new(0, 1, 1, 0)
+
+				-- ColorPicker Code
+				local function UpdateColor()
+					colorpicker.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+					gradient.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+					SelectedColor = colorpicker.BackgroundColor3
+					callback(SelectedColor)
+				end
+
+				UpdateColor()
+
+				local ColorDragging = false
+				local dragInput, dragStart, startPos = nil, nil, nil
+				local Mouse = game.Players.LocalPlayer:GetMouse()
+
+				colorframe.InputBegan:Connect(function(input)
+					if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) and userinputservice:GetFocusedTextBox() == nil then
+						dragStart = input.Position
+						startPos = colorframe.Position
+						ColorDragging = true
+						ColorPickerDragging = true
+						input.Changed:Connect(function()
+							if (input.UserInputState == Enum.UserInputState.End) then
+								ColorDragging = false
+								ColorPickerDragging = false
+							end
+						end)
+					end
+				end)
+
+				colorframe.InputChanged:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+						dragInput = input
+					end
+				end)
+
+				userinputservice.InputChanged:Connect(function(input)
+					if input == dragInput and ColorDragging and not SliderDragging and not Dragging then
+						local Delta = input.Position - dragStart
+						local Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + Delta.X, startPos.Y.Scale, startPos.Y.Offset + Delta.Y)
+						colorframe.Position = Position
+					end
+				end)
+
+				main_3.MouseButton1Click:Connect(function()
+					colorframe.Visible = not colorframe.Visible
+				end)
+
+				gradient.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if (ColorInput) then
+							ColorInput:Disconnect()
+						end
+
+						ColorInput = game.RunService.RenderStepped:Connect(function()
+							local ColorX = (math.clamp(Mouse.X - colorslider.AbsolutePosition.X, 0, colorslider.AbsoluteSize.X) / colorslider.AbsoluteSize.X)
+							local ColorY = (math.clamp(Mouse.Y - gradient.AbsolutePosition.Y, 0, gradient.AbsoluteSize.Y) / gradient.AbsoluteSize.Y)
+
+							ColorS = ColorX
+							ColorV = 1 - ColorY
+
+							colorselection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+
+							UpdateColor()
+						end)
+
+						Dragging = true
+					end
+				end)
+
+				gradient.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if (ColorInput) then
+							ColorInput:Disconnect()
+						end
+
+						Dragging = false
+					end
+				end)
+
+				colorslider.InputBegan:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if (HueInput) then
+							HueInput:Disconnect()
+						end
+
+						HueInput = game.RunService.RenderStepped:Connect(function()
+							local HueY = (math.clamp(Mouse.X - colorslider.AbsolutePosition.X, 0, colorslider.AbsoluteSize.X) / colorslider.AbsoluteSize.X)
+
+							bar_2.Position = UDim2.new(HueY, 0, 0, 0)
+							ColorH = 1 - HueY
+
+							UpdateColor()
+						end)
+
+						Dragging = true
+					end
+				end)
+
+				colorslider.InputEnded:Connect(function(input)
+					if input.UserInputType == Enum.UserInputType.MouseButton1 then
+						if (HueInput) then
+							HueInput:Disconnect()
+						end
+
+						Dragging = false
+					end
+				end)
+
+				-- ColorPicker Types
+				function ColorTypes:SetColor(color)
+					color = color or Color3.fromRGB(255, 255, 255)
+					colorpicker.BackgroundColor3 = color
+					gradient.BackgroundColor3 = color
+					SelectedColor = colorpicker.BackgroundColor3
+					callback(SelectedColor)
+				end
+
+				return ColorTypes
+			end
+
+			return GroupTypes
+		end
+
+		function TabTypes:CratePlayerList(showbuttons, events)
+			showbuttons = showbuttons or false
+			events = events or {}
+			events.onwhitelist = events.onwhitelist or function() end
+			events.onblacklist = events.onblacklist or function() end
+			events.onprioritize = events.onprioritize or function() end
+			events.onunprioritize = events.onunprioritize or function() end
+
+			-- PlayerList Main
+			local PlayerListTypes = {}
+
+			-- PlayerList Instances
+			local main = Instance.new("Frame")
+			local UIPadding = Instance.new("UIPadding")
+			local UIListLayout = Instance.new("UIListLayout")
+			local groupboxoutline = Instance.new("Frame")
+			local groupboxinline = Instance.new("Frame")
+			local background = Instance.new("Frame")
+			local title = Instance.new("TextLabel")
+			local players = Instance.new("Frame")
+			local container_players = Instance.new("ScrollingFrame")
+			local UIListLayout_2 = Instance.new("UIListLayout")
+
+			-- PlayerList Properties
+			main.Name = "main"
+			main.Parent = Pattern
+			main.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			main.BackgroundTransparency = 1.000
+			main.Size = UDim2.new(0, 520, 0, 471)
+
+			UIPadding.Parent = main
+			UIPadding.PaddingLeft = UDim.new(0, 3)
+			UIPadding.PaddingTop = UDim.new(0, 8)
+
+			UIListLayout.Parent = main
+			UIListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			UIListLayout.Padding = UDim.new(0, 8)
+
+			groupboxoutline.Name = "groupboxoutline"
+			groupboxoutline.Parent = main
+			groupboxoutline.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+			groupboxoutline.BorderSizePixel = 0
+			groupboxoutline.Position = UDim2.new(0.00576923089, 0, 0.0169851389, 0)
+			groupboxoutline.Size = UDim2.new(0, 513, 0, 460)
+
+			groupboxinline.Name = "groupboxinline"
+			groupboxinline.Parent = groupboxoutline
+			groupboxinline.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
+			groupboxinline.BorderSizePixel = 0
+			groupboxinline.Position = UDim2.new(0, 1, 0, 1)
+			groupboxinline.Size = UDim2.new(0, 511, 0, 458)
+
+			background.Name = "background"
+			background.Parent = groupboxinline
+			background.BackgroundColor3 = Color3.fromRGB(24, 24, 24)
+			background.BorderSizePixel = 0
+			background.Position = UDim2.new(0, 1, 0, 1)
+			background.Size = UDim2.new(0, 509, 0, 456)
+
+			title.Name = "title"
+			title.Parent = background
+			title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			title.BackgroundTransparency = 1.000
+			title.Position = UDim2.new(0, 15, 0, -10)
+			title.Size = UDim2.new(0, 240, 0, 20)
+			title.Font = Enum.Font.SourceSans
+			title.Text = "Player List"
+			title.TextColor3 = Color3.fromRGB(255, 255, 255)
+			title.TextSize = 15.000
+			title.TextStrokeTransparency = 0.000
+			title.TextXAlignment = Enum.TextXAlignment.Left
+
+			players.Name = "players"
+			players.Parent = background
+			players.BackgroundColor3 = Color3.fromRGB(16, 16, 16)
+			players.BorderColor3 = Color3.fromRGB(8, 8, 8)
+			players.Position = UDim2.new(0, 7, 0, 17)
+			players.Size = UDim2.new(0, 494, 0, 430)
+
+			container_players.Name = "container"
+			container_players.Parent = players
+			container_players.Active = true
+			container_players.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+			container_players.BackgroundTransparency = 1.000
+			container_players.BorderSizePixel = 0
+			container_players.Size = UDim2.new(0, 494, 0, 430)
+			container_players.BottomImage = ""
+			container_players.ScrollBarThickness = 3
+			container_players.TopImage = ""
+
+			UIListLayout_2.Parent = container_players
+			UIListLayout_2.SortOrder = Enum.SortOrder.LayoutOrder
+
+			UIListLayout_2:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+				container_players.CanvasSize = UDim2.new(0, 0, 0, UIListLayout_2.AbsoluteContentSize.Y + 40)
+			end)
+
+			-- PlayerList Code
+			local insertedplayers = {}
+
+			local function CreatePlayerCard(Name, UserId, MemberShipType, TeamColor)
+				local playercard = Instance.new("Frame")
+				local UIGradient = Instance.new("UIGradient")
+				local pfp = Instance.new("ImageLabel")
+				local info = Instance.new("TextLabel")
+				local whitelist = Instance.new("TextButton")
+				local UIGradient_2 = Instance.new("UIGradient")
+				local title_2 = Instance.new("TextLabel")
+				local blacklist = Instance.new("TextButton")
+				local UIGradient_3 = Instance.new("UIGradient")
+				local title_3 = Instance.new("TextLabel")
+				local prioritize = Instance.new("TextButton")
+				local UIGradient_4 = Instance.new("UIGradient")
+				local title_4 = Instance.new("TextLabel")
+				local unprioritize = Instance.new("TextButton")
+				local UIGradient_5 = Instance.new("UIGradient")
+				local title_5 = Instance.new("TextLabel")
+
+				local Pfp = game.Players:GetUserThumbnailAsync(UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size48x48)
+
+				playercard.Name = "playercard"
+				playercard.Parent = container_players
+				playercard.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+				playercard.BorderSizePixel = 0
+				playercard.Size = UDim2.new(1, 0, 0, 60)
+
+				UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+				UIGradient.Rotation = 90
+				UIGradient.Parent = playercard
+
+				pfp.Name = "pfp"
+				pfp.Parent = playercard
+				pfp.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				pfp.BackgroundTransparency = 1.000
+				pfp.Position = UDim2.new(0, 5, 0, 5)
+				pfp.Size = UDim2.new(0, 48, 0, 48)
+				pfp.Image = Pfp
+
+				info.Name = "info"
+				info.Parent = playercard
+				info.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+				info.BackgroundTransparency = 1.000
+				info.Position = UDim2.new(0.119433202, 0, 0.111111142, 0)
+				info.Size = UDim2.new(0, 435, 0, 18)
+				info.Font = Enum.Font.SourceSans
+				info.Text = "Username: " .. Name .. " | UserId: " .. UserId .. " | MembeShipType: " .. MemberShipType
+				info.TextColor3 = TeamColor
+				info.TextSize = 15.000
+				info.TextStrokeTransparency = 0.000
+				info.TextWrapped = true
+				info.TextXAlignment = Enum.TextXAlignment.Left
+
+				if (showbuttons) then
+					whitelist.Name = "whitelist"
+					whitelist.Parent = playercard
+					whitelist.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					whitelist.BorderColor3 = Color3.fromRGB(8, 8, 8)
+					whitelist.Position = UDim2.new(0.119433202, 0, 0.511111259, 0)
+					whitelist.Size = UDim2.new(0, 100, 0, 19)
+					whitelist.Font = Enum.Font.SourceSans
+					whitelist.Text = ""
+					whitelist.TextColor3 = Color3.fromRGB(255, 255, 255)
+					whitelist.TextSize = 14.000
+					whitelist.TextStrokeTransparency = 0.000
+
+					UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+					UIGradient_2.Rotation = 90
+					UIGradient_2.Parent = whitelist
+
+					title_2.Name = "title"
+					title_2.Parent = whitelist
+					title_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					title_2.BackgroundTransparency = 1.000
+					title_2.BorderSizePixel = 0
+					title_2.Size = UDim2.new(1, 0, 1, 0)
+					title_2.Font = Enum.Font.SourceSans
+					title_2.Text = "Whitelist"
+					title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+					title_2.TextSize = 14.000
+					title_2.TextStrokeTransparency = 0.000
+
+					blacklist.Name = "blacklist"
+					blacklist.Parent = playercard
+					blacklist.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					blacklist.BorderColor3 = Color3.fromRGB(8, 8, 8)
+					blacklist.Position = UDim2.new(0.338999987, 0, 0.510999978, 0)
+					blacklist.Size = UDim2.new(0, 100, 0, 19)
+					blacklist.Font = Enum.Font.SourceSans
+					blacklist.Text = ""
+					blacklist.TextColor3 = Color3.fromRGB(255, 255, 255)
+					blacklist.TextSize = 14.000
+					blacklist.TextStrokeTransparency = 0.000
+
+					UIGradient_3.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+					UIGradient_3.Rotation = 90
+					UIGradient_3.Parent = blacklist
+
+					title_3.Name = "title"
+					title_3.Parent = blacklist
+					title_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					title_3.BackgroundTransparency = 1.000
+					title_3.BorderSizePixel = 0
+					title_3.Size = UDim2.new(1, 0, 1, 0)
+					title_3.Font = Enum.Font.SourceSans
+					title_3.Text = "Blacklist"
+					title_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+					title_3.TextSize = 14.000
+					title_3.TextStrokeTransparency = 0.000
+
+					prioritize.Name = "prioritize"
+					prioritize.Parent = playercard
+					prioritize.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					prioritize.BorderColor3 = Color3.fromRGB(8, 8, 8)
+					prioritize.Position = UDim2.new(0.559000015, 0, 0.510999978, 0)
+					prioritize.Size = UDim2.new(0, 100, 0, 19)
+					prioritize.Font = Enum.Font.SourceSans
+					prioritize.Text = ""
+					prioritize.TextColor3 = Color3.fromRGB(255, 255, 255)
+					prioritize.TextSize = 14.000
+					prioritize.TextStrokeTransparency = 0.000
+
+					UIGradient_4.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+					UIGradient_4.Rotation = 90
+					UIGradient_4.Parent = prioritize
+
+					title_4.Name = "title"
+					title_4.Parent = prioritize
+					title_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					title_4.BackgroundTransparency = 1.000
+					title_4.BorderSizePixel = 0
+					title_4.Size = UDim2.new(1, 0, 1, 0)
+					title_4.Font = Enum.Font.SourceSans
+					title_4.Text = "Prioritize"
+					title_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+					title_4.TextSize = 14.000
+					title_4.TextStrokeTransparency = 0.000
+
+					unprioritize.Name = "unprioritize"
+					unprioritize.Parent = playercard
+					unprioritize.BackgroundColor3 = Color3.fromRGB(60, 60, 60)
+					unprioritize.BorderColor3 = Color3.fromRGB(8, 8, 8)
+					unprioritize.Position = UDim2.new(0.778999984, 0, 0.510999978, 0)
+					unprioritize.Size = UDim2.new(0, 100, 0, 19)
+					unprioritize.Font = Enum.Font.SourceSans
+					unprioritize.Text = ""
+					unprioritize.TextColor3 = Color3.fromRGB(255, 255, 255)
+					unprioritize.TextSize = 14.000
+					unprioritize.TextStrokeTransparency = 0.000
+
+					UIGradient_5.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 255, 255)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(167, 167, 167))}
+					UIGradient_5.Rotation = 90
+					UIGradient_5.Parent = unprioritize
+
+					title_5.Name = "title"
+					title_5.Parent = unprioritize
+					title_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+					title_5.BackgroundTransparency = 1.000
+					title_5.BorderSizePixel = 0
+					title_5.Size = UDim2.new(1, 0, 1, 0)
+					title_5.Font = Enum.Font.SourceSans
+					title_5.Text = "Unprioritize"
+					title_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+					title_5.TextSize = 14.000
+					title_5.TextStrokeTransparency = 0.000
+
+					whitelist.MouseButton1Click:Connect(function()
+						events.onwhitelist(UserId)
+					end)
+
+					blacklist.MouseButton1Click:Connect(function()
+						events.onblacklist(UserId)
+					end)
+
+					prioritize.MouseButton1Click:Connect(function()
+						events.onprioritize(UserId)
+					end)
+
+					unprioritize.MouseButton1Click:Connect(function()
+						events.onunprioritize(UserId)
+					end)
+				end
+
+				insertedplayers[UserId] = playercard
+			end
+
+			for i,v in pairs(game.Players:GetPlayers()) do
+				if (v.Name ~= game.Players.LocalPlayer.Name) then
+					local MemberShip = tostring(v.MembershipType):gsub("Enum.MembershipType.", "")
+					CreatePlayerCard(v.Name, v.UserId, MemberShip, v.TeamColor.Color)
+				end
+			end
+
+			game.Players.ChildAdded:Connect(function(Plr)
+				local MemberShip = tostring(Plr.MembershipType):gsub("Enum.MembershipType.", "")
+				CreatePlayerCard(Plr.Name, Plr.UserId, MemberShip, Plr.TeamColor.Color)
+			end)
+
+			game.Players.ChildRemoved:Connect(function(Plr)
+				insertedplayers[Plr.UserId]:Destroy()
+			end)
+		end
+
+		return TabTypes
+	end
+
+	return WinTypes, BracketV2
+end
+
+return Library
